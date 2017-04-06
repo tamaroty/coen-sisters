@@ -56,6 +56,7 @@ def main():
         entry.published(parse_time(i['created']))
         entry.updated(parse_time(i['modified']))
     feed.rss_file('../rss.xml', pretty=True)
+    print 'Feed is now up to date'
 
 if __name__ == '__main__':
     main()
