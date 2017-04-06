@@ -13,6 +13,7 @@ IGNORED_ITEMS = [
 FEED_LINK = 'https://tamaroty.github.io/cohen-sisters/'
 FEED_TITLE = u'האחיות כהן'
 FEED_SUBTITLE = u"אתר ששרה'לה בטח היתה אוהבת"
+FEED_LOGO = FEED_LINK+'pictures/logo.png'
 FEED_LANGUAGE = 'he'
 FEED_TZ = timezone('Asia/Jerusalem')
 
@@ -29,11 +30,15 @@ def parse_time(s):
         datetime.strptime(s[:14], '%Y%m%d%H%M%S'))
 
 def main():
-    wiki = BeautifulSoup(open('index.html'), 'html.parser')
+    here = os.path.dirname(sys.argv[0])
+    if here:
+        os.chdir(here)
+    wiki = BeautifulSoup(open('../index.html'), 'html.parser')
     feed = FeedGenerator()
     feed.link(href=FEED_LINK, rel='alternate')
     feed.title(FEED_TITLE)
     feed.subtitle(FEED_SUBTITLE)
+    feed.logo(FEED_LOGO)
     feed.language(FEED_LANGUAGE)
     items = sorted(
         wiki.find_all(is_item),
@@ -50,7 +55,7 @@ def main():
         entry.title(i['title'])
         entry.published(parse_time(i['created']))
         entry.updated(parse_time(i['modified']))
-    feed.rss_file('rss.xml', pretty=True)
+    feed.rss_file('../rss.xml', pretty=True)
 
 if __name__ == '__main__':
     main()
