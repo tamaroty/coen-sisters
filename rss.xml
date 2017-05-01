@@ -2,130 +2,130 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>האחיות כהן</title>
-    <link>https://tamaroty.github.io/cohen-sisters/</link>
+    <link>http://coensisters.org/</link>
     <description>אתר ששרה'לה בטח היתה אוהבת</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://tamaroty.github.io/cohen-sisters/pictures/logo.png</url>
+      <url>http://coensisters.org/pictures/logo.png</url>
       <title>האחיות כהן</title>
-      <link>https://tamaroty.github.io/cohen-sisters/</link>
+      <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
     <lastBuildDate>Wed, 26 Apr 2017 21:41:28 +0300</lastBuildDate>
     <item>
       <title>סוסים לדבק</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%A1%D7%95%D7%A1%D7%99%D7%9D%20%D7%9C%D7%93%D7%91%D7%A7</link>
+      <link>http://coensisters.org/#%D7%A1%D7%95%D7%A1%D7%99%D7%9D%20%D7%9C%D7%93%D7%91%D7%A7</link>
       <pubDate>Tue, 25 Apr 2017 21:31:16 +0300</pubDate>
     </item>
     <item>
       <title>מחלקים סלולרים</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%9E%D7%97%D7%9C%D7%A7%D7%99%D7%9D%20%D7%A1%D7%9C%D7%95%D7%9C%D7%A8%D7%99%D7%9D</link>
+      <link>http://coensisters.org/#%D7%9E%D7%97%D7%9C%D7%A7%D7%99%D7%9D%20%D7%A1%D7%9C%D7%95%D7%9C%D7%A8%D7%99%D7%9D</link>
       <pubDate>Tue, 25 Apr 2017 20:17:38 +0300</pubDate>
     </item>
     <item>
       <title>בחוות החיות</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%91%D7%97%D7%95%D7%95%D7%AA%20%D7%94%D7%97%D7%99%D7%95%D7%AA</link>
+      <link>http://coensisters.org/#%D7%91%D7%97%D7%95%D7%95%D7%AA%20%D7%94%D7%97%D7%99%D7%95%D7%AA</link>
       <pubDate>Tue, 25 Apr 2017 19:41:55 +0300</pubDate>
     </item>
     <item>
       <title>כורתים עצים</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%9B%D7%95%D7%A8%D7%AA%D7%99%D7%9D%20%D7%A2%D7%A6%D7%99%D7%9D</link>
+      <link>http://coensisters.org/#%D7%9B%D7%95%D7%A8%D7%AA%D7%99%D7%9D%20%D7%A2%D7%A6%D7%99%D7%9D</link>
       <pubDate>Tue, 25 Apr 2017 18:05:23 +0300</pubDate>
     </item>
     <item>
       <title>אחות כהן</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%90%D7%97%D7%95%D7%AA%20%D7%9B%D7%94%D7%9F</link>
+      <link>http://coensisters.org/#%D7%90%D7%97%D7%95%D7%AA%20%D7%9B%D7%94%D7%9F</link>
       <pubDate>Sun, 23 Apr 2017 21:44:19 +0300</pubDate>
     </item>
     <item>
       <title>צ'רלי קאופמן</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%A6%27%D7%A8%D7%9C%D7%99%20%D7%A7%D7%90%D7%95%D7%A4%D7%9E%D7%9F</link>
+      <link>http://coensisters.org/#%D7%A6%27%D7%A8%D7%9C%D7%99%20%D7%A7%D7%90%D7%95%D7%A4%D7%9E%D7%9F</link>
       <pubDate>Sun, 23 Apr 2017 21:23:18 +0300</pubDate>
     </item>
     <item>
       <title>ירקות קלויים</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%99%D7%A8%D7%A7%D7%95%D7%AA%20%D7%A7%D7%9C%D7%95%D7%99%D7%99%D7%9D</link>
+      <link>http://coensisters.org/#%D7%99%D7%A8%D7%A7%D7%95%D7%AA%20%D7%A7%D7%9C%D7%95%D7%99%D7%99%D7%9D</link>
       <pubDate>Sat, 22 Apr 2017 20:52:50 +0300</pubDate>
     </item>
     <item>
       <title>אוטו מטריה</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%90%D7%95%D7%98%D7%95%20%D7%9E%D7%98%D7%A8%D7%99%D7%94</link>
+      <link>http://coensisters.org/#%D7%90%D7%95%D7%98%D7%95%20%D7%9E%D7%98%D7%A8%D7%99%D7%94</link>
       <pubDate>Sat, 22 Apr 2017 19:30:53 +0300</pubDate>
     </item>
     <item>
       <title>מפעיל יד</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%9E%D7%A4%D7%A2%D7%99%D7%9C%20%D7%99%D7%93</link>
+      <link>http://coensisters.org/#%D7%9E%D7%A4%D7%A2%D7%99%D7%9C%20%D7%99%D7%93</link>
       <pubDate>Sat, 22 Apr 2017 19:05:32 +0300</pubDate>
     </item>
     <item>
       <title>חלומות שחלמנו</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%97%D7%9C%D7%95%D7%9E%D7%95%D7%AA%20%D7%A9%D7%97%D7%9C%D7%9E%D7%A0%D7%95</link>
+      <link>http://coensisters.org/#%D7%97%D7%9C%D7%95%D7%9E%D7%95%D7%AA%20%D7%A9%D7%97%D7%9C%D7%9E%D7%A0%D7%95</link>
       <pubDate>Sat, 22 Apr 2017 18:37:32 +0300</pubDate>
     </item>
     <item>
       <title>חמאת שום ועשבי תיבול</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%97%D7%9E%D7%90%D7%AA%20%D7%A9%D7%95%D7%9D%20%D7%95%D7%A2%D7%A9%D7%91%D7%99%20%D7%AA%D7%99%D7%91%D7%95%D7%9C</link>
+      <link>http://coensisters.org/#%D7%97%D7%9E%D7%90%D7%AA%20%D7%A9%D7%95%D7%9D%20%D7%95%D7%A2%D7%A9%D7%91%D7%99%20%D7%AA%D7%99%D7%91%D7%95%D7%9C</link>
       <pubDate>Sat, 22 Apr 2017 16:08:14 +0300</pubDate>
     </item>
     <item>
       <title>המטבח על פי ז'נבייב</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%94%D7%9E%D7%98%D7%91%D7%97%20%D7%A2%D7%9C%20%D7%A4%D7%99%20%D7%96%27%D7%A0%D7%91%D7%99%D7%99%D7%91</link>
+      <link>http://coensisters.org/#%D7%94%D7%9E%D7%98%D7%91%D7%97%20%D7%A2%D7%9C%20%D7%A4%D7%99%20%D7%96%27%D7%A0%D7%91%D7%99%D7%99%D7%91</link>
       <pubDate>Sat, 22 Apr 2017 14:06:32 +0300</pubDate>
     </item>
     <item>
       <title>פוליטיקאי</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%A4%D7%95%D7%9C%D7%99%D7%98%D7%99%D7%A7%D7%90%D7%99</link>
+      <link>http://coensisters.org/#%D7%A4%D7%95%D7%9C%D7%99%D7%98%D7%99%D7%A7%D7%90%D7%99</link>
       <pubDate>Wed, 19 Apr 2017 21:26:29 +0300</pubDate>
     </item>
     <item>
       <title>פיליפ סימור הופמן</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%A4%D7%99%D7%9C%D7%99%D7%A4%20%D7%A1%D7%99%D7%9E%D7%95%D7%A8%20%D7%94%D7%95%D7%A4%D7%9E%D7%9F</link>
+      <link>http://coensisters.org/#%D7%A4%D7%99%D7%9C%D7%99%D7%A4%20%D7%A1%D7%99%D7%9E%D7%95%D7%A8%20%D7%94%D7%95%D7%A4%D7%9E%D7%9F</link>
       <pubDate>Mon, 17 Apr 2017 19:29:58 +0300</pubDate>
     </item>
     <item>
       <title>רן יגיל</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%A8%D7%9F%20%D7%99%D7%92%D7%99%D7%9C</link>
+      <link>http://coensisters.org/#%D7%A8%D7%9F%20%D7%99%D7%92%D7%99%D7%9C</link>
       <pubDate>Sun, 16 Apr 2017 22:25:31 +0300</pubDate>
     </item>
     <item>
       <title>איתן וג'ואל כהן</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%90%D7%99%D7%AA%D7%9F%20%D7%95%D7%92%27%D7%95%D7%90%D7%9C%20%D7%9B%D7%94%D7%9F</link>
+      <link>http://coensisters.org/#%D7%90%D7%99%D7%AA%D7%9F%20%D7%95%D7%92%27%D7%95%D7%90%D7%9C%20%D7%9B%D7%94%D7%9F</link>
       <pubDate>Sat, 15 Apr 2017 20:03:15 +0300</pubDate>
     </item>
     <item>
       <title>ג'ון אירווינג</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%92%27%D7%95%D7%9F%20%D7%90%D7%99%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%92</link>
+      <link>http://coensisters.org/#%D7%92%27%D7%95%D7%9F%20%D7%90%D7%99%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%92</link>
       <pubDate>Sat, 15 Apr 2017 19:21:46 +0300</pubDate>
     </item>
     <item>
       <title>פאי אגסים עם קרם גבינה ושקדים</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%A4%D7%90%D7%99%20%D7%90%D7%92%D7%A1%D7%99%D7%9D%20%D7%A2%D7%9D%20%D7%A7%D7%A8%D7%9D%20%D7%92%D7%91%D7%99%D7%A0%D7%94%20%D7%95%D7%A9%D7%A7%D7%93%D7%99%D7%9D</link>
+      <link>http://coensisters.org/#%D7%A4%D7%90%D7%99%20%D7%90%D7%92%D7%A1%D7%99%D7%9D%20%D7%A2%D7%9D%20%D7%A7%D7%A8%D7%9D%20%D7%92%D7%91%D7%99%D7%A0%D7%94%20%D7%95%D7%A9%D7%A7%D7%93%D7%99%D7%9D</link>
       <pubDate>Sat, 15 Apr 2017 15:06:52 +0300</pubDate>
     </item>
     <item>
       <title>דינה ז"ל</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%93%D7%99%D7%A0%D7%94%20%D7%96%22%D7%9C</link>
+      <link>http://coensisters.org/#%D7%93%D7%99%D7%A0%D7%94%20%D7%96%22%D7%9C</link>
       <pubDate>Sat, 15 Apr 2017 10:59:44 +0300</pubDate>
     </item>
     <item>
       <title>אחיות חוץ</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%90%D7%97%D7%99%D7%95%D7%AA%20%D7%97%D7%95%D7%A5</link>
+      <link>http://coensisters.org/#%D7%90%D7%97%D7%99%D7%95%D7%AA%20%D7%97%D7%95%D7%A5</link>
       <pubDate>Sat, 15 Apr 2017 10:57:21 +0300</pubDate>
     </item>
     <item>
       <title>קוסקוס</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%A7%D7%95%D7%A1%D7%A7%D7%95%D7%A1</link>
+      <link>http://coensisters.org/#%D7%A7%D7%95%D7%A1%D7%A7%D7%95%D7%A1</link>
       <pubDate>Sat, 15 Apr 2017 00:21:04 +0300</pubDate>
     </item>
     <item>
       <title>פבלובה</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%A4%D7%91%D7%9C%D7%95%D7%91%D7%94</link>
+      <link>http://coensisters.org/#%D7%A4%D7%91%D7%9C%D7%95%D7%91%D7%94</link>
       <pubDate>Fri, 14 Apr 2017 15:36:03 +0300</pubDate>
     </item>
     <item>
       <title>עיגולי מרציפן</title>
-      <link>https://tamaroty.github.io/cohen-sisters/#%D7%A2%D7%99%D7%92%D7%95%D7%9C%D7%99%20%D7%9E%D7%A8%D7%A6%D7%99%D7%A4%D7%9F</link>
+      <link>http://coensisters.org/#%D7%A2%D7%99%D7%92%D7%95%D7%9C%D7%99%20%D7%9E%D7%A8%D7%A6%D7%99%D7%A4%D7%9F</link>
       <pubDate>Fri, 14 Apr 2017 01:20:36 +0300</pubDate>
     </item>
   </channel>

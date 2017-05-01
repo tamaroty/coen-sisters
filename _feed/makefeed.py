@@ -10,7 +10,7 @@ from lxml import etree
 
 IGNORED_ITEMS = [
     'MyStyles', 'RTLStylesheet', 'English', 'bg']
-FEED_LINK = 'https://tamaroty.github.io/cohen-sisters/'
+FEED_LINK = 'http://coensisters.org/'
 FEED_TITLE = u'האחיות כהן'
 FEED_SUBTITLE = u"אתר ששרה'לה בטח היתה אוהבת"
 FEED_LOGO = FEED_LINK+'pictures/logo.png'
