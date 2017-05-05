@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 05 May 2017 17:58:18 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 23:01:26 +0300</lastBuildDate>
+    <item>
+      <title>הדוד האמיתי</title>
+      <link>http://coensisters.org/#%D7%94%D7%93%D7%95%D7%93%20%D7%94%D7%90%D7%9E%D7%99%D7%AA%D7%99</link>
+      <pubDate>Fri, 05 May 2017 22:41:51 +0300</pubDate>
+    </item>
     <item>
       <title>אימא שלי</title>
       <link>http://coensisters.org/#%D7%90%D7%99%D7%9E%D7%90%20%D7%A9%D7%9C%D7%99</link>
@@ -122,11 +127,6 @@
       <title>פיליפ סימור הופמן</title>
       <link>http://coensisters.org/#%D7%A4%D7%99%D7%9C%D7%99%D7%A4%20%D7%A1%D7%99%D7%9E%D7%95%D7%A8%20%D7%94%D7%95%D7%A4%D7%9E%D7%9F</link>
       <pubDate>Mon, 17 Apr 2017 19:29:58 +0300</pubDate>
-    </item>
-    <item>
-      <title>רן יגיל</title>
-      <link>http://coensisters.org/#%D7%A8%D7%9F%20%D7%99%D7%92%D7%99%D7%9C</link>
-      <pubDate>Sun, 16 Apr 2017 22:25:31 +0300</pubDate>
     </item>
   </channel>
 </rss>
