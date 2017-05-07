@@ -12,7 +12,17 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 07 May 2017 13:15:28 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 07 May 2017 21:55:24 +0300</lastBuildDate>
+    <item>
+      <title>סיפורים שסיפרתי לנורמה</title>
+      <link>http://coensisters.org/#%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D%20%D7%A9%D7%A1%D7%99%D7%A4%D7%A8%D7%AA%D7%99%20%D7%9C%D7%A0%D7%95%D7%A8%D7%9E%D7%94</link>
+      <pubDate>Sun, 07 May 2017 20:28:22 +0300</pubDate>
+    </item>
+    <item>
+      <title>מספרה</title>
+      <link>http://coensisters.org/#%D7%9E%D7%A1%D7%A4%D7%A8%D7%94</link>
+      <pubDate>Sun, 07 May 2017 17:36:34 +0300</pubDate>
+    </item>
     <item>
       <title>חנות דיסקים</title>
       <link>http://coensisters.org/#%D7%97%D7%A0%D7%95%D7%AA%20%D7%93%D7%99%D7%A1%D7%A7%D7%99%D7%9D</link>
@@ -117,16 +127,6 @@
       <title>חלומות שחלמנו</title>
       <link>http://coensisters.org/#%D7%97%D7%9C%D7%95%D7%9E%D7%95%D7%AA%20%D7%A9%D7%97%D7%9C%D7%9E%D7%A0%D7%95</link>
       <pubDate>Sat, 22 Apr 2017 18:37:32 +0300</pubDate>
-    </item>
-    <item>
-      <title>חמאת שום ועשבי תיבול</title>
-      <link>http://coensisters.org/#%D7%97%D7%9E%D7%90%D7%AA%20%D7%A9%D7%95%D7%9D%20%D7%95%D7%A2%D7%A9%D7%91%D7%99%20%D7%AA%D7%99%D7%91%D7%95%D7%9C</link>
-      <pubDate>Sat, 22 Apr 2017 16:08:14 +0300</pubDate>
-    </item>
-    <item>
-      <title>המטבח על פי ז'נבייב</title>
-      <link>http://coensisters.org/#%D7%94%D7%9E%D7%98%D7%91%D7%97%20%D7%A2%D7%9C%20%D7%A4%D7%99%20%D7%96%27%D7%A0%D7%91%D7%99%D7%99%D7%91</link>
-      <pubDate>Sat, 22 Apr 2017 14:06:32 +0300</pubDate>
     </item>
   </channel>
 </rss>
