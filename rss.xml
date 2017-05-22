@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 21 May 2017 22:17:42 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 17:37:31 +0300</lastBuildDate>
+    <item>
+      <title>עושים שלום</title>
+      <link>http://coensisters.org/#%D7%A2%D7%95%D7%A9%D7%99%D7%9D%20%D7%A9%D7%9C%D7%95%D7%9D</link>
+      <pubDate>Mon, 22 May 2017 17:18:25 +0300</pubDate>
+    </item>
     <item>
       <title>מסוכנת</title>
       <link>http://coensisters.org/#%D7%9E%D7%A1%D7%95%D7%9B%D7%A0%D7%AA</link>
@@ -122,11 +127,6 @@
       <title>סיפורים אמיתיים</title>
       <link>http://coensisters.org/#%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D%20%D7%90%D7%9E%D7%99%D7%AA%D7%99%D7%99%D7%9D</link>
       <pubDate>Thu, 04 May 2017 19:49:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>imagine</title>
-      <link>http://coensisters.org/#imagine</link>
-      <pubDate>Thu, 04 May 2017 19:42:52 +0300</pubDate>
     </item>
   </channel>
 </rss>
