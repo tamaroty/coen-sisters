@@ -12,7 +12,17 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Thu, 01 Jun 2017 23:33:24 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 16:36:23 +0300</lastBuildDate>
+    <item>
+      <title>לורין היל</title>
+      <link>http://coensisters.org/#%D7%9C%D7%95%D7%A8%D7%99%D7%9F%20%D7%94%D7%99%D7%9C</link>
+      <pubDate>Fri, 02 Jun 2017 12:52:41 +0300</pubDate>
+    </item>
+    <item>
+      <title>וויקליף ז'אן</title>
+      <link>http://coensisters.org/#%D7%95%D7%95%D7%99%D7%A7%D7%9C%D7%99%D7%A3%20%D7%96%27%D7%90%D7%9F</link>
+      <pubDate>Fri, 02 Jun 2017 11:12:37 +0300</pubDate>
+    </item>
     <item>
       <title>עם יויו באמסטרדם</title>
       <link>http://coensisters.org/#%D7%A2%D7%9D%20%D7%99%D7%95%D7%99%D7%95%20%D7%91%D7%90%D7%9E%D7%A1%D7%98%D7%A8%D7%93%D7%9D</link>
@@ -117,16 +127,6 @@
       <title>פעם</title>
       <link>http://coensisters.org/#%D7%A4%D7%A2%D7%9D</link>
       <pubDate>Fri, 12 May 2017 17:36:06 +0300</pubDate>
-    </item>
-    <item>
-      <title>הנה, כך</title>
-      <link>http://coensisters.org/#%D7%94%D7%A0%D7%94%2C%20%D7%9B%D7%9A</link>
-      <pubDate>Mon, 08 May 2017 18:09:56 +0300</pubDate>
-    </item>
-    <item>
-      <title>לקבל התראות על חידושים באתר</title>
-      <link>http://coensisters.org/#%D7%9C%D7%A7%D7%91%D7%9C%20%D7%94%D7%AA%D7%A8%D7%90%D7%95%D7%AA%20%D7%A2%D7%9C%20%D7%97%D7%99%D7%93%D7%95%D7%A9%D7%99%D7%9D%20%D7%91%D7%90%D7%AA%D7%A8</link>
-      <pubDate>Mon, 08 May 2017 17:01:52 +0300</pubDate>
     </item>
   </channel>
 </rss>
