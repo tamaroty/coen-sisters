@@ -12,7 +12,22 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 02 Jun 2017 16:36:23 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jun 2017 00:04:56 +0300</lastBuildDate>
+    <item>
+      <title>פ.מ.אלכסנדר</title>
+      <link>http://coensisters.org/#%D7%A4.%D7%9E.%D7%90%D7%9C%D7%9B%D7%A1%D7%A0%D7%93%D7%A8</link>
+      <pubDate>Sat, 03 Jun 2017 19:34:40 +0300</pubDate>
+    </item>
+    <item>
+      <title>צווארים</title>
+      <link>http://coensisters.org/#%D7%A6%D7%95%D7%95%D7%90%D7%A8%D7%99%D7%9D</link>
+      <pubDate>Fri, 02 Jun 2017 20:53:56 +0300</pubDate>
+    </item>
+    <item>
+      <title>גבריאל פורה</title>
+      <link>http://coensisters.org/#%D7%92%D7%91%D7%A8%D7%99%D7%90%D7%9C%20%D7%A4%D7%95%D7%A8%D7%94</link>
+      <pubDate>Fri, 02 Jun 2017 18:00:00 +0300</pubDate>
+    </item>
     <item>
       <title>לורין היל</title>
       <link>http://coensisters.org/#%D7%9C%D7%95%D7%A8%D7%99%D7%9F%20%D7%94%D7%99%D7%9C</link>
@@ -26,6 +41,11 @@
     <item>
       <title>עם יויו באמסטרדם</title>
       <link>http://coensisters.org/#%D7%A2%D7%9D%20%D7%99%D7%95%D7%99%D7%95%20%D7%91%D7%90%D7%9E%D7%A1%D7%98%D7%A8%D7%93%D7%9D</link>
+      <pubDate>Thu, 01 Jun 2017 23:26:01 +0300</pubDate>
+    </item>
+    <item>
+      <title>Draft of 'עם יויו באמסטרדם'</title>
+      <link>http://coensisters.org/#Draft%20of%20%27%D7%A2%D7%9D%20%D7%99%D7%95%D7%99%D7%95%20%D7%91%D7%90%D7%9E%D7%A1%D7%98%D7%A8%D7%93%D7%9D%27</link>
       <pubDate>Thu, 01 Jun 2017 23:26:01 +0300</pubDate>
     </item>
     <item>
@@ -107,26 +127,6 @@
       <title>כשהיו כבישים צרים וארוכים</title>
       <link>http://coensisters.org/#%D7%9B%D7%A9%D7%94%D7%99%D7%95%20%D7%9B%D7%91%D7%99%D7%A9%D7%99%D7%9D%20%D7%A6%D7%A8%D7%99%D7%9D%20%D7%95%D7%90%D7%A8%D7%95%D7%9B%D7%99%D7%9D</link>
       <pubDate>Fri, 12 May 2017 21:26:20 +0300</pubDate>
-    </item>
-    <item>
-      <title>כשהיו בתי קולנוע</title>
-      <link>http://coensisters.org/#%D7%9B%D7%A9%D7%94%D7%99%D7%95%20%D7%91%D7%AA%D7%99%20%D7%A7%D7%95%D7%9C%D7%A0%D7%95%D7%A2</link>
-      <pubDate>Fri, 12 May 2017 20:49:03 +0300</pubDate>
-    </item>
-    <item>
-      <title>כשהיו מעט מכוניות</title>
-      <link>http://coensisters.org/#%D7%9B%D7%A9%D7%94%D7%99%D7%95%20%D7%9E%D7%A2%D7%98%20%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%95%D7%AA</link>
-      <pubDate>Fri, 12 May 2017 19:52:54 +0300</pubDate>
-    </item>
-    <item>
-      <title>כשאנשים עוד היו אופטימים</title>
-      <link>http://coensisters.org/#%D7%9B%D7%A9%D7%90%D7%A0%D7%A9%D7%99%D7%9D%20%D7%A2%D7%95%D7%93%20%D7%94%D7%99%D7%95%20%D7%90%D7%95%D7%A4%D7%98%D7%99%D7%9E%D7%99%D7%9D</link>
-      <pubDate>Fri, 12 May 2017 18:10:06 +0300</pubDate>
-    </item>
-    <item>
-      <title>פעם</title>
-      <link>http://coensisters.org/#%D7%A4%D7%A2%D7%9D</link>
-      <pubDate>Fri, 12 May 2017 17:36:06 +0300</pubDate>
     </item>
   </channel>
 </rss>
