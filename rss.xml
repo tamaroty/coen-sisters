@@ -12,7 +12,27 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 14 Jul 2017 16:16:49 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2017 14:48:41 +0300</lastBuildDate>
+    <item>
+      <title>רוטב בשאמל</title>
+      <link>http://coensisters.org/#%D7%A8%D7%95%D7%98%D7%91%20%D7%91%D7%A9%D7%90%D7%9E%D7%9C</link>
+      <pubDate>Tue, 18 Jul 2017 15:20:42 +0300</pubDate>
+    </item>
+    <item>
+      <title>שותה עם גורה</title>
+      <link>http://coensisters.org/#%D7%A9%D7%95%D7%AA%D7%94%20%D7%A2%D7%9D%20%D7%92%D7%95%D7%A8%D7%94</link>
+      <pubDate>Mon, 17 Jul 2017 18:39:51 +0300</pubDate>
+    </item>
+    <item>
+      <title>דעתניות</title>
+      <link>http://coensisters.org/#%D7%93%D7%A2%D7%AA%D7%A0%D7%99%D7%95%D7%AA</link>
+      <pubDate>Mon, 17 Jul 2017 14:57:25 +0300</pubDate>
+    </item>
+    <item>
+      <title>אירי וגורה</title>
+      <link>http://coensisters.org/#%D7%90%D7%99%D7%A8%D7%99%20%D7%95%D7%92%D7%95%D7%A8%D7%94</link>
+      <pubDate>Fri, 14 Jul 2017 16:42:38 +0300</pubDate>
+    </item>
     <item>
       <title>פארגו</title>
       <link>http://coensisters.org/#%D7%A4%D7%90%D7%A8%D7%92%D7%95</link>
@@ -107,26 +127,6 @@
       <title>עוגיות חמאה ולימון</title>
       <link>http://coensisters.org/#%D7%A2%D7%95%D7%92%D7%99%D7%95%D7%AA%20%D7%97%D7%9E%D7%90%D7%94%20%D7%95%D7%9C%D7%99%D7%9E%D7%95%D7%9F</link>
       <pubDate>Tue, 27 Jun 2017 15:28:13 +0300</pubDate>
-    </item>
-    <item>
-      <title>less is more</title>
-      <link>http://coensisters.org/#less%20is%20more</link>
-      <pubDate>Sat, 24 Jun 2017 10:53:24 +0300</pubDate>
-    </item>
-    <item>
-      <title>טורט</title>
-      <link>http://coensisters.org/#%D7%98%D7%95%D7%A8%D7%98</link>
-      <pubDate>Sat, 24 Jun 2017 10:51:43 +0300</pubDate>
-    </item>
-    <item>
-      <title>כשהם ישנים</title>
-      <link>http://coensisters.org/#%D7%9B%D7%A9%D7%94%D7%9D%20%D7%99%D7%A9%D7%A0%D7%99%D7%9D</link>
-      <pubDate>Sat, 24 Jun 2017 10:49:50 +0300</pubDate>
-    </item>
-    <item>
-      <title>ביורק</title>
-      <link>http://coensisters.org/#%D7%91%D7%99%D7%95%D7%A8%D7%A7</link>
-      <pubDate>Fri, 23 Jun 2017 15:03:17 +0300</pubDate>
     </item>
   </channel>
 </rss>
