@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 28 Jul 2017 10:01:05 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 10:58:59 +0300</lastBuildDate>
+    <item>
+      <title>וס אנדרסון</title>
+      <link>http://coensisters.org/#%D7%95%D7%A1%20%D7%90%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F</link>
+      <pubDate>Fri, 28 Jul 2017 10:38:45 +0300</pubDate>
+    </item>
     <item>
       <title>גורה מספרת 14</title>
       <link>http://coensisters.org/#%D7%92%D7%95%D7%A8%D7%94%20%D7%9E%D7%A1%D7%A4%D7%A8%D7%AA%2014</link>
@@ -122,11 +127,6 @@
       <title>אווה מספרת 06</title>
       <link>http://coensisters.org/#%D7%90%D7%95%D7%95%D7%94%20%D7%9E%D7%A1%D7%A4%D7%A8%D7%AA%2006</link>
       <pubDate>Sun, 23 Jul 2017 17:13:46 +0300</pubDate>
-    </item>
-    <item>
-      <title>אווה מספרת 05</title>
-      <link>http://coensisters.org/#%D7%90%D7%95%D7%95%D7%94%20%D7%9E%D7%A1%D7%A4%D7%A8%D7%AA%2005</link>
-      <pubDate>Sun, 23 Jul 2017 16:33:44 +0300</pubDate>
     </item>
   </channel>
 </rss>
