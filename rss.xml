@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 28 Jul 2017 10:58:59 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 14:13:22 +0300</lastBuildDate>
+    <item>
+      <title>מימי של אלפרד</title>
+      <link>http://coensisters.org/#%D7%9E%D7%99%D7%9E%D7%99%20%D7%A9%D7%9C%20%D7%90%D7%9C%D7%A4%D7%A8%D7%93</link>
+      <pubDate>Fri, 28 Jul 2017 13:00:49 +0300</pubDate>
+    </item>
     <item>
       <title>וס אנדרסון</title>
       <link>http://coensisters.org/#%D7%95%D7%A1%20%D7%90%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F</link>
@@ -122,11 +127,6 @@
       <title>אווה מספרת 07</title>
       <link>http://coensisters.org/#%D7%90%D7%95%D7%95%D7%94%20%D7%9E%D7%A1%D7%A4%D7%A8%D7%AA%2007</link>
       <pubDate>Sun, 23 Jul 2017 17:31:54 +0300</pubDate>
-    </item>
-    <item>
-      <title>אווה מספרת 06</title>
-      <link>http://coensisters.org/#%D7%90%D7%95%D7%95%D7%94%20%D7%9E%D7%A1%D7%A4%D7%A8%D7%AA%2006</link>
-      <pubDate>Sun, 23 Jul 2017 17:13:46 +0300</pubDate>
     </item>
   </channel>
 </rss>
