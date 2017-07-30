@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>לדבר על זה עם האחות ב. כהן</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/solo.css">
+  <link rel="stylesheet" href="css/rtl.css">
+  <style>
+  .status {display: none}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1><a id="page-title" href="./">לדבר על זה<br>
+      <small>עם האחות ב. כהן</a></small>
+    </h1>
+    <p class="status" id="toot-intro">
+      מחפש "<span class="subject"></span>"
+      בארכיון האחות ב. כהן...
+    </p>
+    <p class="status" id="toot-found">
+      אתן מוזמנות
+      להגיב ו/או לעשות לייקים בנושא
+      <strong><a href="" id="tootlink"><span class="subject"></span></a></strong>.
+    </p>
+    <p class="status" id="toot-not-found">
+      לצערנו, האחות ב. כהן מעולם לא דיברה על
+      "<span class="subject"></span>".
+      אולי זה קרה לפני שהיא נולדה.
+    </p>
+    <hr/>
+    <p><a href="https://tooot.im/@sisterbotcoen" target="_blank" rel="noopener noreferrer">האחות ב. כהן</a> היא השגרירה ה<a href="https://he.wikipedia.org/wiki/%D7%91%D7%95%D7%98" target="_blank" rel="noopener noreferrer">רובוטית</a> של האחיות ברשת החברתית <a href="https://mekomit.co.il/%d7%9e%d7%a1%d7%98%d7%95%d7%93%d7%95%d7%9f/" target="_blank" rel="noopener noreferrer">מסטודון</a>. היא מדווחת שם על <a target="_blank" href="http://coensisters.org#%D7%9C%D7%A7%D7%91%D7%9C%20%D7%94%D7%AA%D7%A8%D7%90%D7%95%D7%AA%20%D7%A2%D7%9C%20%D7%97%D7%99%D7%93%D7%95%D7%A9%D7%99%D7%9D%20%D7%91%D7%90%D7%AA%D7%A8">חידושים</a> באתר האחיות.</p><p>אם אתן כבר שם, תוכלו פשוט <a href="https://tooot.im/users/sisterbotcoen/remote_follow" target="_blank" rel="noopener noreferrer">לעקוב</a> אחריה. אם לא, ובא לכן להכיר רשת שהיא "<a href="https://motherboard.vice.com/en_us/article/783akg/mastodon-is-like-twitter-without-nazis-so-why-are-we-not-using-it" target="_blank" rel="noopener noreferrer">כמו טוויטר, רק בלי הנאצים</a>", תוכלו להצטרף לשרת העברי <strong><a href="https://tooot.im/about" target="_blank" rel="noopener noreferrer">תווותים</a></strong> (בכלל, כדאי לקרוא את ה<a href="https://github.com/Toootim/Resources/blob/master/info/welcome.md#%D7%91%D7%A8%D7%95%D7%9B%D7%95%D7%AA-%D7%94%D7%91%D7%90%D7%95%D7%AA-%D7%9C%D7%9E%D7%A1%D7%98%D7%95%D7%93%D7%95%D7%9F" target="_blank" rel="noopener noreferrer">מדריך</a> שם, שמסביר מה זה מסטודון ובמה הוא שונה מהרשתות החברתיות שהורגלנו אליהן).</p><p>יש גם <a href="https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md#list-of-apps" target="_blank" rel="noopener noreferrer">אפליקציות לסלולרים</a>.</p>
+  </div>
+  <script src="js/jquery.min.js"></script>
+  <script>
+  $(function() {
+    if (location.hash.length>1) {
+      var subject = decodeURIComponent(location.hash.slice(1));
+      $('.subject').text(subject);
+      $('#toot-intro').show();
+    }
+    $.getJSON('toots.json', function(toots) {
+      var toot = toots[subject];
+      if (toot) {
+        $('#tootlink').attr('href',toot);
+        $('#toot-found').show();
+      } else {
+        $('#toot-not-found').show();
+      };
+      $('#toot-intro').hide();
+    });
+  });
+  </script>
+</body>
+</html>
