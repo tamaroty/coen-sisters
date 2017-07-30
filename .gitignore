@@ -1,2 +1,4 @@
 *.pyc
 venv
+clientcred.txt
+usercred.txt
