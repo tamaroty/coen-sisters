@@ -12,7 +12,32 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Tue, 22 Aug 2017 18:35:21 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2017 12:38:03 +0300</lastBuildDate>
+    <item>
+      <title>אני מחנה</title>
+      <link>http://coensisters.org/#%D7%90%D7%A0%D7%99%20%D7%9E%D7%97%D7%A0%D7%94</link>
+      <pubDate>Tue, 29 Aug 2017 18:54:39 +0300</pubDate>
+    </item>
+    <item>
+      <title>דייויד צ'ייס</title>
+      <link>http://coensisters.org/#%D7%93%D7%99%D7%99%D7%95%D7%99%D7%93%20%D7%A6%27%D7%99%D7%99%D7%A1</link>
+      <pubDate>Tue, 29 Aug 2017 17:49:37 +0300</pubDate>
+    </item>
+    <item>
+      <title>ג'יימס גנדולפיני</title>
+      <link>http://coensisters.org/#%D7%92%27%D7%99%D7%99%D7%9E%D7%A1%20%D7%92%D7%A0%D7%93%D7%95%D7%9C%D7%A4%D7%99%D7%A0%D7%99</link>
+      <pubDate>Tue, 29 Aug 2017 07:40:25 +0300</pubDate>
+    </item>
+    <item>
+      <title>הסופרנוס</title>
+      <link>http://coensisters.org/#%D7%94%D7%A1%D7%95%D7%A4%D7%A8%D7%A0%D7%95%D7%A1</link>
+      <pubDate>Sat, 26 Aug 2017 11:52:26 +0300</pubDate>
+    </item>
+    <item>
+      <title>רביזיה במטבח</title>
+      <link>http://coensisters.org/#%D7%A8%D7%91%D7%99%D7%96%D7%99%D7%94%20%D7%91%D7%9E%D7%98%D7%91%D7%97</link>
+      <pubDate>Tue, 22 Aug 2017 19:11:01 +0300</pubDate>
+    </item>
     <item>
       <title>שה פניס</title>
       <link>http://coensisters.org/#%D7%A9%D7%94%20%D7%A4%D7%A0%D7%99%D7%A1</link>
@@ -102,31 +127,6 @@
       <title>איזדורה דאנקן</title>
       <link>http://coensisters.org/#%D7%90%D7%99%D7%96%D7%93%D7%95%D7%A8%D7%94%20%D7%93%D7%90%D7%A0%D7%A7%D7%9F</link>
       <pubDate>Mon, 31 Jul 2017 12:05:59 +0300</pubDate>
-    </item>
-    <item>
-      <title>ארנון חן</title>
-      <link>http://coensisters.org/#%D7%90%D7%A8%D7%A0%D7%95%D7%9F%20%D7%97%D7%9F</link>
-      <pubDate>Sat, 29 Jul 2017 12:20:45 +0300</pubDate>
-    </item>
-    <item>
-      <title>עמליה</title>
-      <link>http://coensisters.org/#%D7%A2%D7%9E%D7%9C%D7%99%D7%94</link>
-      <pubDate>Fri, 28 Jul 2017 19:46:09 +0300</pubDate>
-    </item>
-    <item>
-      <title>שרלה לא הייתה אוהבת את זה</title>
-      <link>http://coensisters.org/#%D7%A9%D7%A8%D7%9C%D7%94%20%D7%9C%D7%90%20%D7%94%D7%99%D7%99%D7%AA%D7%94%20%D7%90%D7%95%D7%94%D7%91%D7%AA%20%D7%90%D7%AA%20%D7%96%D7%94</link>
-      <pubDate>Fri, 28 Jul 2017 19:42:33 +0300</pubDate>
-    </item>
-    <item>
-      <title>מימי של אלפרד</title>
-      <link>http://coensisters.org/#%D7%9E%D7%99%D7%9E%D7%99%20%D7%A9%D7%9C%20%D7%90%D7%9C%D7%A4%D7%A8%D7%93</link>
-      <pubDate>Fri, 28 Jul 2017 13:00:49 +0300</pubDate>
-    </item>
-    <item>
-      <title>וס אנדרסון</title>
-      <link>http://coensisters.org/#%D7%95%D7%A1%20%D7%90%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F</link>
-      <pubDate>Fri, 28 Jul 2017 10:38:45 +0300</pubDate>
     </item>
   </channel>
 </rss>
