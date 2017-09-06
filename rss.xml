@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Tue, 05 Sep 2017 12:38:03 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2017 18:11:38 +0300</lastBuildDate>
+    <item>
+      <title>דבקה</title>
+      <link>http://coensisters.org/#%D7%93%D7%91%D7%A7%D7%94</link>
+      <pubDate>Tue, 05 Sep 2017 12:43:50 +0300</pubDate>
+    </item>
     <item>
       <title>אני מחנה</title>
       <link>http://coensisters.org/#%D7%90%D7%A0%D7%99%20%D7%9E%D7%97%D7%A0%D7%94</link>
@@ -122,11 +127,6 @@
       <title>פינה באוש</title>
       <link>http://coensisters.org/#%D7%A4%D7%99%D7%A0%D7%94%20%D7%91%D7%90%D7%95%D7%A9</link>
       <pubDate>Tue, 01 Aug 2017 10:11:17 +0300</pubDate>
-    </item>
-    <item>
-      <title>איזדורה דאנקן</title>
-      <link>http://coensisters.org/#%D7%90%D7%99%D7%96%D7%93%D7%95%D7%A8%D7%94%20%D7%93%D7%90%D7%A0%D7%A7%D7%9F</link>
-      <pubDate>Mon, 31 Jul 2017 12:05:59 +0300</pubDate>
     </item>
   </channel>
 </rss>
