@@ -12,7 +12,17 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Tue, 03 Oct 2017 00:19:46 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2017 11:32:00 +0300</lastBuildDate>
+    <item>
+      <title>jazz</title>
+      <link>http://coensisters.org/#jazz</link>
+      <pubDate>Wed, 04 Oct 2017 15:47:34 +0300</pubDate>
+    </item>
+    <item>
+      <title>אבקות</title>
+      <link>http://coensisters.org/#%D7%90%D7%91%D7%A7%D7%95%D7%AA</link>
+      <pubDate>Tue, 03 Oct 2017 16:23:48 +0300</pubDate>
+    </item>
     <item>
       <title>האנטומיה של גריי</title>
       <link>http://coensisters.org/#%D7%94%D7%90%D7%A0%D7%98%D7%95%D7%9E%D7%99%D7%94%20%D7%A9%D7%9C%20%D7%92%D7%A8%D7%99%D7%99</link>
@@ -117,16 +127,6 @@
       <title>שה פניס</title>
       <link>http://coensisters.org/#%D7%A9%D7%94%20%D7%A4%D7%A0%D7%99%D7%A1</link>
       <pubDate>Mon, 21 Aug 2017 18:31:23 +0300</pubDate>
-    </item>
-    <item>
-      <title>צזיקי</title>
-      <link>http://coensisters.org/#%D7%A6%D7%96%D7%99%D7%A7%D7%99</link>
-      <pubDate>Sun, 20 Aug 2017 18:38:37 +0300</pubDate>
-    </item>
-    <item>
-      <title>סולטנה</title>
-      <link>http://coensisters.org/#%D7%A1%D7%95%D7%9C%D7%98%D7%A0%D7%94</link>
-      <pubDate>Sun, 20 Aug 2017 17:13:14 +0300</pubDate>
     </item>
   </channel>
 </rss>
