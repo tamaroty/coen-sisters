@@ -12,7 +12,32 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Mon, 04 Dec 2017 14:59:12 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2017 18:18:16 +0200</lastBuildDate>
+    <item>
+      <title>ג'ו ונורמה</title>
+      <link>http://coensisters.org/#%D7%92%27%D7%95%20%D7%95%D7%A0%D7%95%D7%A8%D7%9E%D7%94</link>
+      <pubDate>Thu, 07 Dec 2017 22:11:32 +0200</pubDate>
+    </item>
+    <item>
+      <title>הורים במשרה מלאה</title>
+      <link>http://coensisters.org/#%D7%94%D7%95%D7%A8%D7%99%D7%9D%20%D7%91%D7%9E%D7%A9%D7%A8%D7%94%20%D7%9E%D7%9C%D7%90%D7%94</link>
+      <pubDate>Thu, 07 Dec 2017 18:21:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>אדית</title>
+      <link>http://coensisters.org/#%D7%90%D7%93%D7%99%D7%AA</link>
+      <pubDate>Thu, 07 Dec 2017 16:47:11 +0200</pubDate>
+    </item>
+    <item>
+      <title>אבינו</title>
+      <link>http://coensisters.org/#%D7%90%D7%91%D7%99%D7%A0%D7%95</link>
+      <pubDate>Tue, 05 Dec 2017 17:43:28 +0200</pubDate>
+    </item>
+    <item>
+      <title>אהרון אחי השלם</title>
+      <link>http://coensisters.org/#%D7%90%D7%94%D7%A8%D7%95%D7%9F%20%D7%90%D7%97%D7%99%20%D7%94%D7%A9%D7%9C%D7%9D</link>
+      <pubDate>Tue, 05 Dec 2017 14:04:13 +0200</pubDate>
+    </item>
     <item>
       <title>ההמשך של כוכב המשאלות</title>
       <link>http://coensisters.org/#%D7%94%D7%94%D7%9E%D7%A9%D7%9A%20%D7%A9%D7%9C%20%D7%9B%D7%95%D7%9B%D7%91%20%D7%94%D7%9E%D7%A9%D7%90%D7%9C%D7%95%D7%AA</link>
@@ -102,31 +127,6 @@
       <title>כוכב המשאלות 13</title>
       <link>http://coensisters.org/#%D7%9B%D7%95%D7%9B%D7%91%20%D7%94%D7%9E%D7%A9%D7%90%D7%9C%D7%95%D7%AA%2013</link>
       <pubDate>Sat, 11 Nov 2017 14:25:11 +0200</pubDate>
-    </item>
-    <item>
-      <title>כוכב המשאלות 12</title>
-      <link>http://coensisters.org/#%D7%9B%D7%95%D7%9B%D7%91%20%D7%94%D7%9E%D7%A9%D7%90%D7%9C%D7%95%D7%AA%2012</link>
-      <pubDate>Thu, 09 Nov 2017 19:27:24 +0200</pubDate>
-    </item>
-    <item>
-      <title>כוכב המשאלות 11</title>
-      <link>http://coensisters.org/#%D7%9B%D7%95%D7%9B%D7%91%20%D7%94%D7%9E%D7%A9%D7%90%D7%9C%D7%95%D7%AA%2011</link>
-      <pubDate>Thu, 09 Nov 2017 16:37:44 +0200</pubDate>
-    </item>
-    <item>
-      <title>כוכב המשאלות 10</title>
-      <link>http://coensisters.org/#%D7%9B%D7%95%D7%9B%D7%91%20%D7%94%D7%9E%D7%A9%D7%90%D7%9C%D7%95%D7%AA%2010</link>
-      <pubDate>Tue, 07 Nov 2017 20:11:30 +0200</pubDate>
-    </item>
-    <item>
-      <title>כוכב המשאלות 09</title>
-      <link>http://coensisters.org/#%D7%9B%D7%95%D7%9B%D7%91%20%D7%94%D7%9E%D7%A9%D7%90%D7%9C%D7%95%D7%AA%2009</link>
-      <pubDate>Tue, 07 Nov 2017 13:44:23 +0200</pubDate>
-    </item>
-    <item>
-      <title>כוכב המשאלות 08</title>
-      <link>http://coensisters.org/#%D7%9B%D7%95%D7%9B%D7%91%20%D7%94%D7%9E%D7%A9%D7%90%D7%9C%D7%95%D7%AA%2008</link>
-      <pubDate>Mon, 06 Nov 2017 14:11:51 +0200</pubDate>
     </item>
   </channel>
 </rss>
