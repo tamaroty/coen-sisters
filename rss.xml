@@ -12,7 +12,22 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Tue, 13 Feb 2018 18:36:30 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2018 18:48:51 +0200</lastBuildDate>
+    <item>
+      <title>לילי 12</title>
+      <link>http://coensisters.org/#%D7%9C%D7%99%D7%9C%D7%99%2012</link>
+      <pubDate>Mon, 19 Feb 2018 18:32:13 +0200</pubDate>
+    </item>
+    <item>
+      <title>אלן בול</title>
+      <link>http://coensisters.org/#%D7%90%D7%9C%D7%9F%20%D7%91%D7%95%D7%9C</link>
+      <pubDate>Sun, 18 Feb 2018 10:45:49 +0200</pubDate>
+    </item>
+    <item>
+      <title>עמוק באדמה</title>
+      <link>http://coensisters.org/#%D7%A2%D7%9E%D7%95%D7%A7%20%D7%91%D7%90%D7%93%D7%9E%D7%94</link>
+      <pubDate>Wed, 14 Feb 2018 16:58:30 +0200</pubDate>
+    </item>
     <item>
       <title>קנלוני</title>
       <link>http://coensisters.org/#%D7%A7%D7%A0%D7%9C%D7%95%D7%A0%D7%99</link>
@@ -112,21 +127,6 @@
       <title>מתכונים טבעוניים</title>
       <link>http://coensisters.org/#%D7%9E%D7%AA%D7%9B%D7%95%D7%A0%D7%99%D7%9D%20%D7%98%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%99%D7%9D</link>
       <pubDate>Sun, 07 Jan 2018 12:05:55 +0200</pubDate>
-    </item>
-    <item>
-      <title>לילי 02</title>
-      <link>http://coensisters.org/#%D7%9C%D7%99%D7%9C%D7%99%2002</link>
-      <pubDate>Fri, 05 Jan 2018 15:01:25 +0200</pubDate>
-    </item>
-    <item>
-      <title>כריסמס 2017</title>
-      <link>http://coensisters.org/#%D7%9B%D7%A8%D7%99%D7%A1%D7%9E%D7%A1%202017</link>
-      <pubDate>Mon, 01 Jan 2018 17:20:47 +0200</pubDate>
-    </item>
-    <item>
-      <title>לילי 01</title>
-      <link>http://coensisters.org/#%D7%9C%D7%99%D7%9C%D7%99%2001</link>
-      <pubDate>Mon, 01 Jan 2018 17:19:12 +0200</pubDate>
     </item>
   </channel>
 </rss>
