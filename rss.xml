@@ -12,10 +12,35 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 25 Mar 2018 14:19:25 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 08 Apr 2018 17:35:46 +0300</lastBuildDate>
     <item>
-      <title>יונתן גפן</title>
-      <link>http://coensisters.org/#%D7%99%D7%95%D7%A0%D7%AA%D7%9F%20%D7%92%D7%A4%D7%9F</link>
+      <title>פלא אוזן</title>
+      <link>http://coensisters.org/#%D7%A4%D7%9C%D7%90%20%D7%90%D7%95%D7%96%D7%9F</link>
+      <pubDate>Sun, 08 Apr 2018 15:51:55 +0300</pubDate>
+    </item>
+    <item>
+      <title>חוה אלברשטיין</title>
+      <link>http://coensisters.org/#%D7%97%D7%95%D7%94%20%D7%90%D7%9C%D7%91%D7%A8%D7%A9%D7%98%D7%99%D7%99%D7%9F</link>
+      <pubDate>Wed, 28 Mar 2018 13:15:28 +0300</pubDate>
+    </item>
+    <item>
+      <title>ברי סחרוף</title>
+      <link>http://coensisters.org/#%D7%91%D7%A8%D7%99%20%D7%A1%D7%97%D7%A8%D7%95%D7%A3</link>
+      <pubDate>Mon, 26 Mar 2018 15:19:02 +0300</pubDate>
+    </item>
+    <item>
+      <title>שלום חנוך</title>
+      <link>http://coensisters.org/#%D7%A9%D7%9C%D7%95%D7%9D%20%D7%97%D7%A0%D7%95%D7%9A</link>
+      <pubDate>Sun, 25 Mar 2018 20:22:47 +0300</pubDate>
+    </item>
+    <item>
+      <title>יוני רכטר</title>
+      <link>http://coensisters.org/#%D7%99%D7%95%D7%A0%D7%99%20%D7%A8%D7%9B%D7%98%D7%A8</link>
+      <pubDate>Sun, 25 Mar 2018 18:26:43 +0300</pubDate>
+    </item>
+    <item>
+      <title>יהונתן גפן</title>
+      <link>http://coensisters.org/#%D7%99%D7%94%D7%95%D7%A0%D7%AA%D7%9F%20%D7%92%D7%A4%D7%9F</link>
       <pubDate>Sun, 25 Mar 2018 13:40:55 +0300</pubDate>
     </item>
     <item>
@@ -102,31 +127,6 @@
       <title>מוזיקה</title>
       <link>http://coensisters.org/#%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94</link>
       <pubDate>Mon, 05 Feb 2018 17:59:02 +0200</pubDate>
-    </item>
-    <item>
-      <title>נולדנו</title>
-      <link>http://coensisters.org/#%D7%A0%D7%95%D7%9C%D7%93%D7%A0%D7%95</link>
-      <pubDate>Fri, 02 Feb 2018 17:24:46 +0200</pubDate>
-    </item>
-    <item>
-      <title>פדרו אלמודובר</title>
-      <link>http://coensisters.org/#%D7%A4%D7%93%D7%A8%D7%95%20%D7%90%D7%9C%D7%9E%D7%95%D7%93%D7%95%D7%91%D7%A8</link>
-      <pubDate>Thu, 01 Feb 2018 13:18:29 +0200</pubDate>
-    </item>
-    <item>
-      <title>אמהות</title>
-      <link>http://coensisters.org/#%D7%90%D7%9E%D7%94%D7%95%D7%AA</link>
-      <pubDate>Tue, 30 Jan 2018 19:18:38 +0200</pubDate>
-    </item>
-    <item>
-      <title>לילי 11</title>
-      <link>http://coensisters.org/#%D7%9C%D7%99%D7%9C%D7%99%2011</link>
-      <pubDate>Mon, 29 Jan 2018 11:43:51 +0200</pubDate>
-    </item>
-    <item>
-      <title>ארוחות</title>
-      <link>http://coensisters.org/#%D7%90%D7%A8%D7%95%D7%97%D7%95%D7%AA</link>
-      <pubDate>Sun, 28 Jan 2018 15:39:40 +0200</pubDate>
     </item>
   </channel>
 </rss>
