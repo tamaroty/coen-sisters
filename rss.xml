@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Wed, 05 Sep 2018 11:05:11 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 12 Sep 2018 16:19:51 +0300</lastBuildDate>
+    <item>
+      <title>אברהם הוסטל</title>
+      <link>http://coensisters.org/#%D7%90%D7%91%D7%A8%D7%94%D7%9D%20%D7%94%D7%95%D7%A1%D7%98%D7%9C</link>
+      <pubDate>Wed, 12 Sep 2018 15:32:29 +0300</pubDate>
+    </item>
     <item>
       <title>שי טרא ליטמן</title>
       <link>http://coensisters.org/#%D7%A9%D7%99%20%D7%98%D7%A8%D7%90%20%D7%9C%D7%99%D7%98%D7%9E%D7%9F</link>
@@ -122,11 +127,6 @@
       <title>קרל אובה קנאוסגורד</title>
       <link>http://coensisters.org/#%D7%A7%D7%A8%D7%9C%20%D7%90%D7%95%D7%91%D7%94%20%D7%A7%D7%A0%D7%90%D7%95%D7%A1%D7%92%D7%95%D7%A8%D7%93</link>
       <pubDate>Fri, 29 Jun 2018 14:24:54 +0300</pubDate>
-    </item>
-    <item>
-      <title>שוקולד פאדג'</title>
-      <link>http://coensisters.org/#%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93%20%D7%A4%D7%90%D7%93%D7%92%27</link>
-      <pubDate>Wed, 20 Jun 2018 18:43:00 +0300</pubDate>
     </item>
   </channel>
 </rss>
