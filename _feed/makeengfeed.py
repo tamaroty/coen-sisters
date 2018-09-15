@@ -10,10 +10,10 @@ from lxml import etree
 
 IGNORED_ITEMS = [
     'MyStyles', 'RTLStylesheet', 'English', 'bg', 'logo-bg']
-FEED_LINK = 'http://coensisters.org/'
-FEED_TITLE = u'האחיות כהן'
-FEED_SUBTITLE = u"אתר ששרה'לה בטח היתה אוהבת"
-FEED_LOGO = FEED_LINK+'pictures/logo.png'
+FEED_LINK = 'http://coensisters.org/english.html'
+FEED_TITLE = u'Coen Sisters'
+FEED_SUBTITLE = u"A site Sara'le would have liked"
+FEED_LOGO = 'http://coensisters.org/pictures/logo.png'
 FEED_LANGUAGE = 'he'
 FEED_TZ = timezone('Asia/Jerusalem')
 
@@ -33,7 +33,7 @@ def main():
     here = os.path.dirname(sys.argv[0])
     if here:
         os.chdir(here)
-    wiki = BeautifulSoup(open('../index.html'), 'html.parser')
+    wiki = BeautifulSoup(open('../english.html'), 'html.parser')
     feed = FeedGenerator()
     feed.link(href=FEED_LINK, rel='alternate')
     feed.title(FEED_TITLE)
@@ -55,8 +55,8 @@ def main():
         entry.title(i['title'])
         entry.published(parse_time(i['created']))
         entry.updated(parse_time(i['modified']))
-    feed.rss_file('../rss.xml', pretty=True)
-    print 'Feed is now up to date'
+    feed.rss_file('../english.xml', pretty=True)
+    print 'English feed is now up to date'
 
 if __name__ == '__main__':
     main()
