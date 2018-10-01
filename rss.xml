@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Thu, 27 Sep 2018 11:46:48 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 17:30:43 +0300</lastBuildDate>
+    <item>
+      <title>כביסה</title>
+      <link>http://coensisters.org/#%D7%9B%D7%91%D7%99%D7%A1%D7%94</link>
+      <pubDate>Mon, 01 Oct 2018 13:23:42 +0300</pubDate>
+    </item>
     <item>
       <title>זמירות חג</title>
       <link>http://coensisters.org/#%D7%96%D7%9E%D7%99%D7%A8%D7%95%D7%AA%20%D7%97%D7%92</link>
@@ -122,11 +127,6 @@
       <title>לצייר</title>
       <link>http://coensisters.org/#%D7%9C%D7%A6%D7%99%D7%99%D7%A8</link>
       <pubDate>Mon, 02 Jul 2018 16:19:04 +0300</pubDate>
-    </item>
-    <item>
-      <title>האחים</title>
-      <link>http://coensisters.org/#%D7%94%D7%90%D7%97%D7%99%D7%9D</link>
-      <pubDate>Mon, 02 Jul 2018 12:04:33 +0300</pubDate>
     </item>
   </channel>
 </rss>
