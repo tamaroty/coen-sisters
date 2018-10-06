@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 05 Oct 2018 18:53:37 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 13:21:41 +0300</lastBuildDate>
+    <item>
+      <title>טלפון חכם</title>
+      <link>http://coensisters.org/#%D7%98%D7%9C%D7%A4%D7%95%D7%9F%20%D7%97%D7%9B%D7%9D</link>
+      <pubDate>Sat, 06 Oct 2018 12:40:35 +0300</pubDate>
+    </item>
     <item>
       <title>גלסי</title>
       <link>http://coensisters.org/#%D7%92%D7%9C%D7%A1%D7%99</link>
@@ -122,11 +127,6 @@
       <title>פסטה מיאה</title>
       <link>http://coensisters.org/#%D7%A4%D7%A1%D7%98%D7%94%20%D7%9E%D7%99%D7%90%D7%94</link>
       <pubDate>Sun, 15 Jul 2018 13:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>לחמים</title>
-      <link>http://coensisters.org/#%D7%9C%D7%97%D7%9E%D7%99%D7%9D</link>
-      <pubDate>Fri, 13 Jul 2018 19:52:40 +0300</pubDate>
     </item>
   </channel>
 </rss>
