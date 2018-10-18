@@ -12,7 +12,17 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Wed, 17 Oct 2018 12:05:34 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 18:13:26 +0300</lastBuildDate>
+    <item>
+      <title>מאנטה ריי</title>
+      <link>http://coensisters.org/#%D7%9E%D7%90%D7%A0%D7%98%D7%94%20%D7%A8%D7%99%D7%99</link>
+      <pubDate>Thu, 18 Oct 2018 17:25:40 +0300</pubDate>
+    </item>
+    <item>
+      <title>מסעדות</title>
+      <link>http://coensisters.org/#%D7%9E%D7%A1%D7%A2%D7%93%D7%95%D7%AA</link>
+      <pubDate>Thu, 18 Oct 2018 17:23:29 +0300</pubDate>
+    </item>
     <item>
       <title>לחם</title>
       <link>http://coensisters.org/#%D7%9C%D7%97%D7%9D</link>
@@ -117,16 +127,6 @@
       <title>בשביל הפרחים</title>
       <link>http://coensisters.org/#%D7%91%D7%A9%D7%91%D7%99%D7%9C%20%D7%94%D7%A4%D7%A8%D7%97%D7%99%D7%9D</link>
       <pubDate>Thu, 19 Jul 2018 10:31:56 +0300</pubDate>
-    </item>
-    <item>
-      <title>גינת קריית ספר</title>
-      <link>http://coensisters.org/#%D7%92%D7%99%D7%A0%D7%AA%20%D7%A7%D7%A8%D7%99%D7%99%D7%AA%20%D7%A1%D7%A4%D7%A8</link>
-      <pubDate>Wed, 18 Jul 2018 19:04:54 +0300</pubDate>
-    </item>
-    <item>
-      <title>גרציאני</title>
-      <link>http://coensisters.org/#%D7%92%D7%A8%D7%A6%D7%99%D7%90%D7%A0%D7%99</link>
-      <pubDate>Sun, 15 Jul 2018 19:42:23 +0300</pubDate>
     </item>
   </channel>
 </rss>
