@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Wed, 07 Nov 2018 09:39:30 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Nov 2018 11:12:46 +0200</lastBuildDate>
+    <item>
+      <title>רוממה</title>
+      <link>http://coensisters.org/#%D7%A8%D7%95%D7%9E%D7%9E%D7%94</link>
+      <pubDate>Wed, 07 Nov 2018 11:05:33 +0200</pubDate>
+    </item>
     <item>
       <title>הקיוסק של גילי</title>
       <link>http://coensisters.org/#%D7%94%D7%A7%D7%99%D7%95%D7%A1%D7%A7%20%D7%A9%D7%9C%20%D7%92%D7%99%D7%9C%D7%99</link>
@@ -122,11 +127,6 @@
       <title>ג'יין פונדה</title>
       <link>http://coensisters.org/#%D7%92%27%D7%99%D7%99%D7%9F%20%D7%A4%D7%95%D7%A0%D7%93%D7%94</link>
       <pubDate>Wed, 03 Oct 2018 13:10:16 +0300</pubDate>
-    </item>
-    <item>
-      <title>כביסה</title>
-      <link>http://coensisters.org/#%D7%9B%D7%91%D7%99%D7%A1%D7%94</link>
-      <pubDate>Mon, 01 Oct 2018 13:23:42 +0300</pubDate>
     </item>
   </channel>
 </rss>
