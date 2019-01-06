@@ -12,7 +12,17 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Tue, 25 Dec 2018 17:29:36 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jan 2019 17:43:40 +0200</lastBuildDate>
+    <item>
+      <title>אכרם חומוס</title>
+      <link>http://coensisters.org/#%D7%90%D7%9B%D7%A8%D7%9D%20%D7%97%D7%95%D7%9E%D7%95%D7%A1</link>
+      <pubDate>Sat, 05 Jan 2019 11:30:35 +0200</pubDate>
+    </item>
+    <item>
+      <title>הדשא</title>
+      <link>http://coensisters.org/#%D7%94%D7%93%D7%A9%D7%90</link>
+      <pubDate>Sat, 05 Jan 2019 11:28:36 +0200</pubDate>
+    </item>
     <item>
       <title>רדיו epgb</title>
       <link>http://coensisters.org/#%D7%A8%D7%93%D7%99%D7%95%20epgb</link>
@@ -117,16 +127,6 @@
       <title>נתב</title>
       <link>http://coensisters.org/#%D7%A0%D7%AA%D7%91</link>
       <pubDate>Thu, 25 Oct 2018 18:10:17 +0300</pubDate>
-    </item>
-    <item>
-      <title>פרינס</title>
-      <link>http://coensisters.org/#%D7%A4%D7%A8%D7%99%D7%A0%D7%A1</link>
-      <pubDate>Sun, 21 Oct 2018 14:38:10 +0300</pubDate>
-    </item>
-    <item>
-      <title>אחוזת דאונטון</title>
-      <link>http://coensisters.org/#%D7%90%D7%97%D7%95%D7%96%D7%AA%20%D7%93%D7%90%D7%95%D7%A0%D7%98%D7%95%D7%9F</link>
-      <pubDate>Sat, 20 Oct 2018 10:40:51 +0300</pubDate>
     </item>
   </channel>
 </rss>
