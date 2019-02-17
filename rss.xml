@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 15 Feb 2019 17:12:52 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 17 Feb 2019 17:08:25 +0200</lastBuildDate>
+    <item>
+      <title>max 20</title>
+      <link>http://coensisters.org/#max%2020</link>
+      <pubDate>Sun, 17 Feb 2019 15:39:17 +0200</pubDate>
+    </item>
     <item>
       <title>רפי מינץ</title>
       <link>http://coensisters.org/#%D7%A8%D7%A4%D7%99%20%D7%9E%D7%99%D7%A0%D7%A5</link>
@@ -122,11 +127,6 @@
       <title>קפה וממתקים</title>
       <link>http://coensisters.org/#%D7%A7%D7%A4%D7%94%20%D7%95%D7%9E%D7%9E%D7%AA%D7%A7%D7%99%D7%9D</link>
       <pubDate>Fri, 02 Nov 2018 15:53:49 +0200</pubDate>
-    </item>
-    <item>
-      <title>מרק טחון</title>
-      <link>http://coensisters.org/#%D7%9E%D7%A8%D7%A7%20%D7%98%D7%97%D7%95%D7%9F</link>
-      <pubDate>Thu, 01 Nov 2018 19:17:33 +0200</pubDate>
     </item>
   </channel>
 </rss>
