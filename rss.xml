@@ -12,7 +12,17 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 17 Feb 2019 17:08:25 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 21 Feb 2019 18:28:19 +0200</lastBuildDate>
+    <item>
+      <title>blue-marble-hood</title>
+      <link>http://coensisters.org/#blue-marble-hood</link>
+      <pubDate>Thu, 21 Feb 2019 15:02:38 +0200</pubDate>
+    </item>
+    <item>
+      <title>ילדים</title>
+      <link>http://coensisters.org/#%D7%99%D7%9C%D7%93%D7%99%D7%9D</link>
+      <pubDate>Tue, 19 Feb 2019 16:07:37 +0200</pubDate>
+    </item>
     <item>
       <title>max 20</title>
       <link>http://coensisters.org/#max%2020</link>
@@ -117,16 +127,6 @@
       <title>נוטבוק</title>
       <link>http://coensisters.org/#%D7%A0%D7%95%D7%98%D7%91%D7%95%D7%A7</link>
       <pubDate>Tue, 06 Nov 2018 17:14:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>דה וינצ'י 2</title>
-      <link>http://coensisters.org/#%D7%93%D7%94%20%D7%95%D7%99%D7%A0%D7%A6%27%D7%99%202</link>
-      <pubDate>Sat, 03 Nov 2018 16:22:56 +0200</pubDate>
-    </item>
-    <item>
-      <title>קפה וממתקים</title>
-      <link>http://coensisters.org/#%D7%A7%D7%A4%D7%94%20%D7%95%D7%9E%D7%9E%D7%AA%D7%A7%D7%99%D7%9D</link>
-      <pubDate>Fri, 02 Nov 2018 15:53:49 +0200</pubDate>
     </item>
   </channel>
 </rss>
