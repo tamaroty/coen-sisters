@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Tue, 05 Mar 2019 12:23:27 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2019 06:12:23 +0200</lastBuildDate>
+    <item>
+      <title>שושני שמרים</title>
+      <link>http://coensisters.org/#%D7%A9%D7%95%D7%A9%D7%A0%D7%99%20%D7%A9%D7%9E%D7%A8%D7%99%D7%9D</link>
+      <pubDate>Wed, 06 Mar 2019 17:11:03 +0200</pubDate>
+    </item>
     <item>
       <title>כשנשאר בצק פריך</title>
       <link>http://coensisters.org/#%D7%9B%D7%A9%D7%A0%D7%A9%D7%90%D7%A8%20%D7%91%D7%A6%D7%A7%20%D7%A4%D7%A8%D7%99%D7%9A</link>
@@ -122,11 +127,6 @@
       <title>טוטם</title>
       <link>http://coensisters.org/#%D7%98%D7%95%D7%98%D7%9D</link>
       <pubDate>Wed, 14 Nov 2018 15:12:08 +0200</pubDate>
-    </item>
-    <item>
-      <title>אימא של ג'אז</title>
-      <link>http://coensisters.org/#%D7%90%D7%99%D7%9E%D7%90%20%D7%A9%D7%9C%20%D7%92%27%D7%90%D7%96</link>
-      <pubDate>Wed, 07 Nov 2018 12:33:50 +0200</pubDate>
     </item>
   </channel>
 </rss>
