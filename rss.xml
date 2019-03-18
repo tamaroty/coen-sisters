@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 10 Mar 2019 23:59:37 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2019 10:31:34 +0200</lastBuildDate>
+    <item>
+      <title>פאי גבינה</title>
+      <link>http://coensisters.org/#%D7%A4%D7%90%D7%99%20%D7%92%D7%91%D7%99%D7%A0%D7%94</link>
+      <pubDate>Thu, 14 Mar 2019 14:19:37 +0200</pubDate>
+    </item>
     <item>
       <title>טלוויזיה</title>
       <link>http://coensisters.org/#%D7%98%D7%9C%D7%95%D7%95%D7%99%D7%96%D7%99%D7%94</link>
@@ -122,11 +127,6 @@
       <title>רדיו epgb</title>
       <link>http://coensisters.org/#%D7%A8%D7%93%D7%99%D7%95%20epgb</link>
       <pubDate>Sun, 23 Dec 2018 14:17:07 +0200</pubDate>
-    </item>
-    <item>
-      <title>לילה בדצמבר</title>
-      <link>http://coensisters.org/#%D7%9C%D7%99%D7%9C%D7%94%20%D7%91%D7%93%D7%A6%D7%9E%D7%91%D7%A8</link>
-      <pubDate>Sun, 16 Dec 2018 16:15:18 +0200</pubDate>
     </item>
   </channel>
 </rss>
