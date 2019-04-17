@@ -12,15 +12,25 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Mon, 08 Apr 2019 11:44:06 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2019 17:34:57 +0300</lastBuildDate>
+    <item>
+      <title>בתי קפה</title>
+      <link>http://coensisters.org/#%D7%91%D7%AA%D7%99%20%D7%A7%D7%A4%D7%94</link>
+      <pubDate>Mon, 15 Apr 2019 19:00:01 +0300</pubDate>
+    </item>
+    <item>
+      <title>קפה</title>
+      <link>http://coensisters.org/#%D7%A7%D7%A4%D7%94</link>
+      <pubDate>Mon, 08 Apr 2019 15:15:32 +0300</pubDate>
+    </item>
     <item>
       <title>טבע עירוני</title>
       <link>http://coensisters.org/#%D7%98%D7%91%D7%A2%20%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99</link>
       <pubDate>Thu, 04 Apr 2019 18:37:13 +0300</pubDate>
     </item>
     <item>
-      <title>בריסטה</title>
-      <link>http://coensisters.org/#%D7%91%D7%A8%D7%99%D7%A1%D7%98%D7%94</link>
+      <title>הבריסטות שכאן</title>
+      <link>http://coensisters.org/#%D7%94%D7%91%D7%A8%D7%99%D7%A1%D7%98%D7%95%D7%AA%20%D7%A9%D7%9B%D7%90%D7%9F</link>
       <pubDate>Sun, 24 Mar 2019 09:18:20 +0200</pubDate>
     </item>
     <item>
@@ -117,16 +127,6 @@
       <title>סרטים</title>
       <link>http://coensisters.org/#%D7%A1%D7%A8%D7%98%D7%99%D7%9D</link>
       <pubDate>Sat, 26 Jan 2019 10:09:56 +0200</pubDate>
-    </item>
-    <item>
-      <title>יהודית רביץ</title>
-      <link>http://coensisters.org/#%D7%99%D7%94%D7%95%D7%93%D7%99%D7%AA%20%D7%A8%D7%91%D7%99%D7%A5</link>
-      <pubDate>Thu, 24 Jan 2019 08:41:02 +0200</pubDate>
-    </item>
-    <item>
-      <title>רקפות</title>
-      <link>http://coensisters.org/#%D7%A8%D7%A7%D7%A4%D7%95%D7%AA</link>
-      <pubDate>Tue, 22 Jan 2019 07:47:55 +0200</pubDate>
     </item>
   </channel>
 </rss>
