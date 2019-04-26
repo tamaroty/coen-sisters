@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Mon, 22 Apr 2019 17:08:03 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2019 15:17:42 +0300</lastBuildDate>
+    <item>
+      <title>נחמה וחצי</title>
+      <link>http://coensisters.org/#%D7%A0%D7%97%D7%9E%D7%94%20%D7%95%D7%97%D7%A6%D7%99</link>
+      <pubDate>Tue, 23 Apr 2019 07:27:41 +0300</pubDate>
+    </item>
     <item>
       <title>קובה טבעוני</title>
       <link>http://coensisters.org/#%D7%A7%D7%95%D7%91%D7%94%20%D7%98%D7%91%D7%A2%D7%95%D7%A0%D7%99</link>
@@ -122,11 +127,6 @@
       <title>אלמנטרי</title>
       <link>http://coensisters.org/#%D7%90%D7%9C%D7%9E%D7%A0%D7%98%D7%A8%D7%99</link>
       <pubDate>Thu, 14 Feb 2019 14:31:29 +0200</pubDate>
-    </item>
-    <item>
-      <title>המגדלור</title>
-      <link>http://coensisters.org/#%D7%94%D7%9E%D7%92%D7%93%D7%9C%D7%95%D7%A8</link>
-      <pubDate>Sun, 10 Feb 2019 16:14:47 +0200</pubDate>
     </item>
   </channel>
 </rss>
