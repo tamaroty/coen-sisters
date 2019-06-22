@@ -12,7 +12,22 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Mon, 27 May 2019 08:23:25 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2019 11:23:46 +0300</lastBuildDate>
+    <item>
+      <title>TLV</title>
+      <link>http://coensisters.org/#TLV</link>
+      <pubDate>Mon, 17 Jun 2019 18:56:51 +0300</pubDate>
+    </item>
+    <item>
+      <title>מטבחים</title>
+      <link>http://coensisters.org/#%D7%9E%D7%98%D7%91%D7%97%D7%99%D7%9D</link>
+      <pubDate>Mon, 17 Jun 2019 13:16:50 +0300</pubDate>
+    </item>
+    <item>
+      <title>כאן גאווה</title>
+      <link>http://coensisters.org/#%D7%9B%D7%90%D7%9F%20%D7%92%D7%90%D7%95%D7%95%D7%94</link>
+      <pubDate>Sun, 16 Jun 2019 05:44:08 +0300</pubDate>
+    </item>
     <item>
       <title>weshoes בביאליק 3</title>
       <link>http://coensisters.org/#weshoes%20%D7%91%D7%91%D7%99%D7%90%D7%9C%D7%99%D7%A7%203</link>
@@ -112,21 +127,6 @@
       <title>בתה וגריגה</title>
       <link>http://coensisters.org/#%D7%91%D7%AA%D7%94%20%D7%95%D7%92%D7%A8%D7%99%D7%92%D7%94</link>
       <pubDate>Wed, 27 Feb 2019 17:33:20 +0200</pubDate>
-    </item>
-    <item>
-      <title>blue-marble-hood</title>
-      <link>http://coensisters.org/#blue-marble-hood</link>
-      <pubDate>Thu, 21 Feb 2019 15:02:38 +0200</pubDate>
-    </item>
-    <item>
-      <title>ילדים</title>
-      <link>http://coensisters.org/#%D7%99%D7%9C%D7%93%D7%99%D7%9D</link>
-      <pubDate>Tue, 19 Feb 2019 16:07:37 +0200</pubDate>
-    </item>
-    <item>
-      <title>max 20</title>
-      <link>http://coensisters.org/#max%2020</link>
-      <pubDate>Sun, 17 Feb 2019 15:39:17 +0200</pubDate>
     </item>
   </channel>
 </rss>
