@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sat, 22 Jun 2019 11:23:46 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 16:27:18 +0300</lastBuildDate>
+    <item>
+      <title>הארבעה 2</title>
+      <link>http://coensisters.org/#%D7%94%D7%90%D7%A8%D7%91%D7%A2%D7%94%202</link>
+      <pubDate>Sun, 23 Jun 2019 12:48:00 +0300</pubDate>
+    </item>
     <item>
       <title>TLV</title>
       <link>http://coensisters.org/#TLV</link>
@@ -122,11 +127,6 @@
       <title>טארט טאטן</title>
       <link>http://coensisters.org/#%D7%98%D7%90%D7%A8%D7%98%20%D7%98%D7%90%D7%98%D7%9F</link>
       <pubDate>Mon, 04 Mar 2019 13:31:14 +0200</pubDate>
-    </item>
-    <item>
-      <title>בתה וגריגה</title>
-      <link>http://coensisters.org/#%D7%91%D7%AA%D7%94%20%D7%95%D7%92%D7%A8%D7%99%D7%92%D7%94</link>
-      <pubDate>Wed, 27 Feb 2019 17:33:20 +0200</pubDate>
     </item>
   </channel>
 </rss>
