@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Thu, 07 Nov 2019 14:08:28 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 21:00:42 +0200</lastBuildDate>
+    <item>
+      <title>אהל היפה</title>
+      <link>http://coensisters.org/#%D7%90%D7%94%D7%9C%20%D7%94%D7%99%D7%A4%D7%94</link>
+      <pubDate>Sun, 10 Nov 2019 12:31:55 +0200</pubDate>
+    </item>
     <item>
       <title>כולי עלמא</title>
       <link>http://coensisters.org/#%D7%9B%D7%95%D7%9C%D7%99%20%D7%A2%D7%9C%D7%9E%D7%90</link>
@@ -122,11 +127,6 @@
       <title>קפה</title>
       <link>http://coensisters.org/#%D7%A7%D7%A4%D7%94</link>
       <pubDate>Mon, 08 Apr 2019 15:15:32 +0300</pubDate>
-    </item>
-    <item>
-      <title>טבע עירוני</title>
-      <link>http://coensisters.org/#%D7%98%D7%91%D7%A2%20%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99</link>
-      <pubDate>Thu, 04 Apr 2019 18:37:13 +0300</pubDate>
     </item>
   </channel>
 </rss>
