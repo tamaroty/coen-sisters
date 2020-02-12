@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 09 Feb 2020 16:54:53 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2020 14:49:06 +0200</lastBuildDate>
+    <item>
+      <title>כמה שירים כבר אפשר להמציא בכלל</title>
+      <link>http://coensisters.org/#%D7%9B%D7%9E%D7%94%20%D7%A9%D7%99%D7%A8%D7%99%D7%9D%20%D7%9B%D7%91%D7%A8%20%D7%90%D7%A4%D7%A9%D7%A8%20%D7%9C%D7%94%D7%9E%D7%A6%D7%99%D7%90%20%D7%91%D7%9B%D7%9C%D7%9C</link>
+      <pubDate>Wed, 12 Feb 2020 14:09:00 +0200</pubDate>
+    </item>
     <item>
       <title>חינוך מיני</title>
       <link>http://coensisters.org/#%D7%97%D7%99%D7%A0%D7%95%D7%9A%20%D7%9E%D7%99%D7%A0%D7%99</link>
@@ -122,11 +127,6 @@
       <title>הארבעה 2</title>
       <link>http://coensisters.org/#%D7%94%D7%90%D7%A8%D7%91%D7%A2%D7%94%202</link>
       <pubDate>Sun, 23 Jun 2019 12:48:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>TLV</title>
-      <link>http://coensisters.org/#TLV</link>
-      <pubDate>Mon, 17 Jun 2019 18:56:51 +0300</pubDate>
     </item>
   </channel>
 </rss>
