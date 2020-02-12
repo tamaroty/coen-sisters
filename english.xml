@@ -12,7 +12,17 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Wed, 12 Feb 2020 19:20:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2020 20:25:01 +0200</lastBuildDate>
+    <item>
+      <title>Music</title>
+      <link>http://coensisters.org/english.html#Music</link>
+      <pubDate>Wed, 12 Feb 2020 20:16:43 +0200</pubDate>
+    </item>
+    <item>
+      <title>A friend</title>
+      <link>http://coensisters.org/english.html#A%20friend</link>
+      <pubDate>Wed, 12 Feb 2020 20:09:33 +0200</pubDate>
+    </item>
     <item>
       <title>How many songs can you even invent at all</title>
       <link>http://coensisters.org/english.html#How%20many%20songs%20can%20you%20even%20invent%20at%20all</link>
@@ -117,16 +127,6 @@
       <title>A politician</title>
       <link>http://coensisters.org/english.html#A%20politician</link>
       <pubDate>Sun, 02 Feb 2020 18:53:08 +0200</pubDate>
-    </item>
-    <item>
-      <title>Love</title>
-      <link>http://coensisters.org/english.html#Love</link>
-      <pubDate>Sun, 02 Feb 2020 18:04:28 +0200</pubDate>
-    </item>
-    <item>
-      <title>Meir Ariel</title>
-      <link>http://coensisters.org/english.html#Meir%20Ariel</link>
-      <pubDate>Sun, 02 Feb 2020 17:58:11 +0200</pubDate>
     </item>
   </channel>
 </rss>
