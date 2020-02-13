@@ -12,7 +12,32 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Thu, 13 Feb 2020 14:33:17 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 15:27:45 +0200</lastBuildDate>
+    <item>
+      <title>David Byrne</title>
+      <link>http://coensisters.org/english.html#David%20Byrne</link>
+      <pubDate>Thu, 13 Feb 2020 15:25:25 +0200</pubDate>
+    </item>
+    <item>
+      <title>Jeff Bridges</title>
+      <link>http://coensisters.org/english.html#Jeff%20Bridges</link>
+      <pubDate>Thu, 13 Feb 2020 15:17:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>John Goodman</title>
+      <link>http://coensisters.org/english.html#John%20Goodman</link>
+      <pubDate>Thu, 13 Feb 2020 15:09:57 +0200</pubDate>
+    </item>
+    <item>
+      <title>Alexandra</title>
+      <link>http://coensisters.org/english.html#Alexandra</link>
+      <pubDate>Thu, 13 Feb 2020 15:04:40 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genevieve</title>
+      <link>http://coensisters.org/english.html#Genevieve</link>
+      <pubDate>Thu, 13 Feb 2020 14:53:54 +0200</pubDate>
+    </item>
     <item>
       <title>The Sopranos</title>
       <link>http://coensisters.org/english.html#The%20Sopranos</link>
@@ -102,31 +127,6 @@
       <title>Fa</title>
       <link>http://coensisters.org/english.html#Fa</link>
       <pubDate>Wed, 12 Feb 2020 17:29:54 +0200</pubDate>
-    </item>
-    <item>
-      <title>Philippe</title>
-      <link>http://coensisters.org/english.html#Philippe</link>
-      <pubDate>Wed, 12 Feb 2020 17:25:21 +0200</pubDate>
-    </item>
-    <item>
-      <title>Iris the daughter</title>
-      <link>http://coensisters.org/english.html#Iris%20the%20daughter</link>
-      <pubDate>Wed, 12 Feb 2020 17:19:32 +0200</pubDate>
-    </item>
-    <item>
-      <title>Dandan went</title>
-      <link>http://coensisters.org/english.html#Dandan%20went</link>
-      <pubDate>Wed, 12 Feb 2020 17:13:38 +0200</pubDate>
-    </item>
-    <item>
-      <title>TV Series</title>
-      <link>http://coensisters.org/english.html#TV%20Series</link>
-      <pubDate>Wed, 12 Feb 2020 16:54:33 +0200</pubDate>
-    </item>
-    <item>
-      <title>Here in the Ghetto</title>
-      <link>http://coensisters.org/english.html#Here%20in%20the%20Ghetto</link>
-      <pubDate>Wed, 12 Feb 2020 16:46:15 +0200</pubDate>
     </item>
   </channel>
 </rss>
