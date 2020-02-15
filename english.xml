@@ -12,7 +12,27 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sat, 15 Feb 2020 11:55:26 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 12:48:22 +0200</lastBuildDate>
+    <item>
+      <title>Daniel</title>
+      <link>http://coensisters.org/english.html#Daniel</link>
+      <pubDate>Sat, 15 Feb 2020 12:46:58 +0200</pubDate>
+    </item>
+    <item>
+      <title>Chez Finnie`s</title>
+      <link>http://coensisters.org/english.html#Chez%20Finnie%60s</link>
+      <pubDate>Sat, 15 Feb 2020 12:29:51 +0200</pubDate>
+    </item>
+    <item>
+      <title>Dandan</title>
+      <link>http://coensisters.org/english.html#Dandan</link>
+      <pubDate>Sat, 15 Feb 2020 12:04:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>Chez Panisse</title>
+      <link>http://coensisters.org/english.html#Chez%20Panisse</link>
+      <pubDate>Sat, 15 Feb 2020 11:58:04 +0200</pubDate>
+    </item>
     <item>
       <title>Matza balls soup</title>
       <link>http://coensisters.org/english.html#Matza%20balls%20soup</link>
@@ -107,26 +127,6 @@
       <title>The global village</title>
       <link>http://coensisters.org/english.html#The%20global%20village</link>
       <pubDate>Thu, 13 Feb 2020 21:22:57 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hysterical</title>
-      <link>http://coensisters.org/english.html#Hysterical</link>
-      <pubDate>Thu, 13 Feb 2020 21:10:47 +0200</pubDate>
-    </item>
-    <item>
-      <title>Prince</title>
-      <link>http://coensisters.org/english.html#Prince</link>
-      <pubDate>Thu, 13 Feb 2020 20:48:50 +0200</pubDate>
-    </item>
-    <item>
-      <title>My Mother</title>
-      <link>http://coensisters.org/english.html#My%20Mother</link>
-      <pubDate>Thu, 13 Feb 2020 20:35:58 +0200</pubDate>
-    </item>
-    <item>
-      <title>Coffee and Candies</title>
-      <link>http://coensisters.org/english.html#Coffee%20and%20Candies</link>
-      <pubDate>Thu, 13 Feb 2020 20:31:33 +0200</pubDate>
     </item>
   </channel>
 </rss>
