@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 13 Mar 2020 12:17:24 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2020 19:05:58 +0200</lastBuildDate>
+    <item>
+      <title>Closers</title>
+      <link>http://coensisters.org/english.html#Closers</link>
+      <pubDate>Wed, 18 Mar 2020 19:03:59 +0200</pubDate>
+    </item>
     <item>
       <title>Umbrella car</title>
       <link>http://coensisters.org/english.html#Umbrella%20car</link>
@@ -122,11 +127,6 @@
       <title>Lily 02</title>
       <link>http://coensisters.org/english.html#Lily%2002</link>
       <pubDate>Sun, 08 Mar 2020 11:24:56 +0200</pubDate>
-    </item>
-    <item>
-      <title>Lily 01</title>
-      <link>http://coensisters.org/english.html#Lily%2001</link>
-      <pubDate>Sun, 08 Mar 2020 11:23:10 +0200</pubDate>
     </item>
   </channel>
 </rss>
