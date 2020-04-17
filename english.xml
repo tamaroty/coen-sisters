@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Wed, 15 Apr 2020 11:42:26 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2020 17:19:47 +0300</lastBuildDate>
+    <item>
+      <title>Grape leaves</title>
+      <link>http://coensisters.org/english.html#Grape%20leaves</link>
+      <pubDate>Fri, 17 Apr 2020 17:17:59 +0300</pubDate>
+    </item>
     <item>
       <title>Lehamim and corona</title>
       <link>http://coensisters.org/english.html#Lehamim%20and%20corona</link>
@@ -122,11 +127,6 @@
       <title>Wishing star 17</title>
       <link>http://coensisters.org/english.html#Wishing%20star%2017</link>
       <pubDate>Mon, 30 Mar 2020 14:36:07 +0300</pubDate>
-    </item>
-    <item>
-      <title>Wishing star 16</title>
-      <link>http://coensisters.org/english.html#Wishing%20star%2016</link>
-      <pubDate>Mon, 30 Mar 2020 14:31:09 +0300</pubDate>
     </item>
   </channel>
 </rss>
