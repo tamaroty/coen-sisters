@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Mon, 20 Apr 2020 17:59:35 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 12:45:30 +0300</lastBuildDate>
+    <item>
+      <title>Jim Jarmusch</title>
+      <link>http://coensisters.org/english.html#Jim%20Jarmusch</link>
+      <pubDate>Thu, 23 Apr 2020 12:44:03 +0300</pubDate>
+    </item>
     <item>
       <title>Untidy is the new well-groomed</title>
       <link>http://coensisters.org/english.html#Untidy%20is%20the%20new%20well-groomed</link>
@@ -122,11 +127,6 @@
       <title>wishing star 20</title>
       <link>http://coensisters.org/english.html#wishing%20star%2020</link>
       <pubDate>Mon, 30 Mar 2020 14:43:07 +0300</pubDate>
-    </item>
-    <item>
-      <title>Wishing star 19</title>
-      <link>http://coensisters.org/english.html#Wishing%20star%2019</link>
-      <pubDate>Mon, 30 Mar 2020 14:41:01 +0300</pubDate>
     </item>
   </channel>
 </rss>
