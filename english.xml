@@ -12,7 +12,22 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 24 Apr 2020 10:03:11 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 19:29:28 +0300</lastBuildDate>
+    <item>
+      <title>From the kitchen's window</title>
+      <link>http://coensisters.org/english.html#From%20the%20kitchen%27s%20window</link>
+      <pubDate>Sun, 26 Apr 2020 19:27:15 +0300</pubDate>
+    </item>
+    <item>
+      <title>Amalya</title>
+      <link>http://coensisters.org/english.html#Amalya</link>
+      <pubDate>Sun, 26 Apr 2020 13:53:14 +0300</pubDate>
+    </item>
+    <item>
+      <title>Families</title>
+      <link>http://coensisters.org/english.html#Families</link>
+      <pubDate>Sun, 26 Apr 2020 13:25:58 +0300</pubDate>
+    </item>
     <item>
       <title>Jim Jarmusch</title>
       <link>http://coensisters.org/english.html#Jim%20Jarmusch</link>
@@ -112,21 +127,6 @@
       <title>Wishing star 23</title>
       <link>http://coensisters.org/english.html#Wishing%20star%2023</link>
       <pubDate>Mon, 30 Mar 2020 14:57:51 +0300</pubDate>
-    </item>
-    <item>
-      <title>Wishing star 22</title>
-      <link>http://coensisters.org/english.html#Wishing%20star%2022</link>
-      <pubDate>Mon, 30 Mar 2020 14:49:25 +0300</pubDate>
-    </item>
-    <item>
-      <title>Wishing star 21</title>
-      <link>http://coensisters.org/english.html#Wishing%20star%2021</link>
-      <pubDate>Mon, 30 Mar 2020 14:46:59 +0300</pubDate>
-    </item>
-    <item>
-      <title>wishing star 20</title>
-      <link>http://coensisters.org/english.html#wishing%20star%2020</link>
-      <pubDate>Mon, 30 Mar 2020 14:43:07 +0300</pubDate>
     </item>
   </channel>
 </rss>
