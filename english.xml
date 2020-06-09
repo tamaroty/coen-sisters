@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 05 Jun 2020 13:44:15 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 19:19:35 +0300</lastBuildDate>
+    <item>
+      <title>Villa Maroc</title>
+      <link>http://coensisters.org/english.html#Villa%20Maroc</link>
+      <pubDate>Tue, 09 Jun 2020 19:17:59 +0300</pubDate>
+    </item>
     <item>
       <title>The Altermans - the cover version</title>
       <link>http://coensisters.org/english.html#The%20Altermans%20-%20the%20cover%20version</link>
@@ -122,11 +127,6 @@
       <title>SA OOTW LW SSR</title>
       <link>http://coensisters.org/english.html#SA%20OOTW%20LW%20SSR</link>
       <pubDate>Sat, 04 Apr 2020 17:09:39 +0300</pubDate>
-    </item>
-    <item>
-      <title>Leonard Cohen</title>
-      <link>http://coensisters.org/english.html#Leonard%20Cohen</link>
-      <pubDate>Sat, 04 Apr 2020 12:03:41 +0300</pubDate>
     </item>
   </channel>
 </rss>
