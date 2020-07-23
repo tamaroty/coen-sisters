@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Thu, 23 Jul 2020 11:15:04 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 14:59:23 +0300</lastBuildDate>
+    <item>
+      <title>טיפולים מהספה</title>
+      <link>http://coensisters.org/#%D7%98%D7%99%D7%A4%D7%95%D7%9C%D7%99%D7%9D%20%D7%9E%D7%94%D7%A1%D7%A4%D7%94</link>
+      <pubDate>Thu, 23 Jul 2020 14:50:49 +0300</pubDate>
+    </item>
     <item>
       <title>גוויה של חזיה בכיור</title>
       <link>http://coensisters.org/#%D7%92%D7%95%D7%95%D7%99%D7%94%20%D7%A9%D7%9C%20%D7%97%D7%96%D7%99%D7%94%20%D7%91%D7%9B%D7%99%D7%95%D7%A8</link>
@@ -122,11 +127,6 @@
       <title>ברכת כהנים</title>
       <link>http://coensisters.org/#%D7%91%D7%A8%D7%9B%D7%AA%20%D7%9B%D7%94%D7%A0%D7%99%D7%9D</link>
       <pubDate>Mon, 30 Mar 2020 15:55:07 +0300</pubDate>
-    </item>
-    <item>
-      <title>כפות ידיים</title>
-      <link>http://coensisters.org/#%D7%9B%D7%A4%D7%95%D7%AA%20%D7%99%D7%93%D7%99%D7%99%D7%9D</link>
-      <pubDate>Mon, 30 Mar 2020 15:41:48 +0300</pubDate>
     </item>
   </channel>
 </rss>
