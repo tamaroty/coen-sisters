@@ -12,7 +12,17 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 02 Aug 2020 13:28:39 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 15:31:42 +0300</lastBuildDate>
+    <item>
+      <title>Discipline</title>
+      <link>http://coensisters.org/english.html#Discipline</link>
+      <pubDate>Thu, 13 Aug 2020 15:04:40 +0300</pubDate>
+    </item>
+    <item>
+      <title>Presence</title>
+      <link>http://coensisters.org/english.html#Presence</link>
+      <pubDate>Fri, 07 Aug 2020 12:00:29 +0300</pubDate>
+    </item>
     <item>
       <title>Gura narrates 03</title>
       <link>http://coensisters.org/english.html#Gura%20narrates%2003</link>
@@ -117,16 +127,6 @@
       <title>The Altermans - the cover version</title>
       <link>http://coensisters.org/english.html#The%20Altermans%20-%20the%20cover%20version</link>
       <pubDate>Fri, 05 Jun 2020 13:32:17 +0300</pubDate>
-    </item>
-    <item>
-      <title>The Hoodj luck club</title>
-      <link>http://coensisters.org/english.html#The%20Hoodj%20luck%20club</link>
-      <pubDate>Wed, 20 May 2020 10:51:07 +0300</pubDate>
-    </item>
-    <item>
-      <title>Minda</title>
-      <link>http://coensisters.org/english.html#Minda</link>
-      <pubDate>Mon, 11 May 2020 17:43:45 +0300</pubDate>
     </item>
   </channel>
 </rss>
