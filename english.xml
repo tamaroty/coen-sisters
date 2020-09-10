@@ -12,7 +12,22 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 23 Aug 2020 17:45:42 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 13:54:38 +0300</lastBuildDate>
+    <item>
+      <title>Trees</title>
+      <link>http://coensisters.org/english.html#Trees</link>
+      <pubDate>Thu, 10 Sep 2020 12:59:46 +0300</pubDate>
+    </item>
+    <item>
+      <title>Plum cake</title>
+      <link>http://coensisters.org/english.html#Plum%20cake</link>
+      <pubDate>Thu, 10 Sep 2020 09:15:05 +0300</pubDate>
+    </item>
+    <item>
+      <title>Equalizer in the chest</title>
+      <link>http://coensisters.org/english.html#Equalizer%20in%20the%20chest</link>
+      <pubDate>Fri, 28 Aug 2020 08:57:15 +0300</pubDate>
+    </item>
     <item>
       <title>Cars here</title>
       <link>http://coensisters.org/english.html#Cars%20here</link>
@@ -112,21 +127,6 @@
       <title>The Hairdresser</title>
       <link>http://coensisters.org/english.html#The%20Hairdresser</link>
       <pubDate>Sat, 27 Jun 2020 16:03:10 +0300</pubDate>
-    </item>
-    <item>
-      <title>Stalin</title>
-      <link>http://coensisters.org/english.html#Stalin</link>
-      <pubDate>Sat, 27 Jun 2020 15:26:29 +0300</pubDate>
-    </item>
-    <item>
-      <title>Genesis Hilltop</title>
-      <link>http://coensisters.org/english.html#Genesis%20Hilltop</link>
-      <pubDate>Thu, 25 Jun 2020 13:20:23 +0300</pubDate>
-    </item>
-    <item>
-      <title>A corpse of a bra in the sink</title>
-      <link>http://coensisters.org/english.html#A%20corpse%20of%20a%20bra%20in%20the%20sink</link>
-      <pubDate>Sun, 14 Jun 2020 14:10:33 +0300</pubDate>
     </item>
   </channel>
 </rss>

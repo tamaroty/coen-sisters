@@ -12,7 +12,17 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 23 Aug 2020 17:48:43 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 14:09:38 +0300</lastBuildDate>
+    <item>
+      <title>עצים</title>
+      <link>http://coensisters.org/#%D7%A2%D7%A6%D7%99%D7%9D</link>
+      <pubDate>Thu, 10 Sep 2020 12:58:22 +0300</pubDate>
+    </item>
+    <item>
+      <title>אקולייזר בבית החזה</title>
+      <link>http://coensisters.org/#%D7%90%D7%A7%D7%95%D7%9C%D7%99%D7%99%D7%96%D7%A8%20%D7%91%D7%91%D7%99%D7%AA%20%D7%94%D7%97%D7%96%D7%94</link>
+      <pubDate>Fri, 28 Aug 2020 08:54:56 +0300</pubDate>
+    </item>
     <item>
       <title>מכוניות כאן</title>
       <link>http://coensisters.org/#%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%95%D7%AA%20%D7%9B%D7%90%D7%9F</link>
@@ -117,16 +127,6 @@
       <title>בלינדה</title>
       <link>http://coensisters.org/#%D7%91%D7%9C%D7%99%D7%A0%D7%93%D7%94</link>
       <pubDate>Mon, 20 Apr 2020 14:07:58 +0300</pubDate>
-    </item>
-    <item>
-      <title>עלי גפן</title>
-      <link>http://coensisters.org/#%D7%A2%D7%9C%D7%99%20%D7%92%D7%A4%D7%9F</link>
-      <pubDate>Fri, 17 Apr 2020 16:53:02 +0300</pubDate>
-    </item>
-    <item>
-      <title>לחמים בקורונה</title>
-      <link>http://coensisters.org/#%D7%9C%D7%97%D7%9E%D7%99%D7%9D%20%D7%91%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94</link>
-      <pubDate>Fri, 10 Apr 2020 15:36:07 +0300</pubDate>
     </item>
   </channel>
 </rss>
