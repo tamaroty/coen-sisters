@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 11 Sep 2020 10:05:20 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2020 12:51:10 +0300</lastBuildDate>
+    <item>
+      <title>Cinnamon cookies</title>
+      <link>http://coensisters.org/english.html#Cinnamon%20cookies</link>
+      <pubDate>Sun, 04 Oct 2020 12:44:32 +0300</pubDate>
+    </item>
     <item>
       <title>Trees</title>
       <link>http://coensisters.org/english.html#Trees</link>
@@ -122,11 +127,6 @@
       <title>The K Sisters</title>
       <link>http://coensisters.org/english.html#The%20K%20Sisters</link>
       <pubDate>Sat, 27 Jun 2020 16:08:39 +0300</pubDate>
-    </item>
-    <item>
-      <title>The Hairdresser</title>
-      <link>http://coensisters.org/english.html#The%20Hairdresser</link>
-      <pubDate>Sat, 27 Jun 2020 16:03:10 +0300</pubDate>
     </item>
   </channel>
 </rss>
