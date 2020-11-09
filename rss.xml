@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 01 Nov 2020 16:41:58 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 15:36:56 +0200</lastBuildDate>
+    <item>
+      <title>המטבח שלי</title>
+      <link>http://coensisters.org/#%D7%94%D7%9E%D7%98%D7%91%D7%97%20%D7%A9%D7%9C%D7%99</link>
+      <pubDate>Mon, 09 Nov 2020 15:15:28 +0200</pubDate>
+    </item>
     <item>
       <title>המטבח של טל</title>
       <link>http://coensisters.org/#%D7%94%D7%9E%D7%98%D7%91%D7%97%20%D7%A9%D7%9C%20%D7%98%D7%9C</link>
@@ -122,11 +127,6 @@
       <title>משפחות</title>
       <link>http://coensisters.org/#%D7%9E%D7%A9%D7%A4%D7%97%D7%95%D7%AA</link>
       <pubDate>Sun, 26 Apr 2020 13:22:41 +0300</pubDate>
-    </item>
-    <item>
-      <title>ג'ים ג'רמוש</title>
-      <link>http://coensisters.org/#%D7%92%27%D7%99%D7%9D%20%D7%92%27%D7%A8%D7%9E%D7%95%D7%A9</link>
-      <pubDate>Thu, 23 Apr 2020 12:41:06 +0300</pubDate>
     </item>
   </channel>
 </rss>
