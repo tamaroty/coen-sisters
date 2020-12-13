@@ -12,7 +12,17 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Mon, 30 Nov 2020 16:43:43 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Dec 2020 10:58:56 +0200</lastBuildDate>
+    <item>
+      <title>תענית שתיקה</title>
+      <link>http://coensisters.org/#%D7%AA%D7%A2%D7%A0%D7%99%D7%AA%20%D7%A9%D7%AA%D7%99%D7%A7%D7%94</link>
+      <pubDate>Wed, 09 Dec 2020 16:31:09 +0200</pubDate>
+    </item>
+    <item>
+      <title>מדיטציית קילוף רימונים</title>
+      <link>http://coensisters.org/#%D7%9E%D7%93%D7%99%D7%98%D7%A6%D7%99%D7%99%D7%AA%20%D7%A7%D7%99%D7%9C%D7%95%D7%A3%20%D7%A8%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%9D</link>
+      <pubDate>Fri, 04 Dec 2020 16:45:43 +0200</pubDate>
+    </item>
     <item>
       <title>קפה אדמונד</title>
       <link>http://coensisters.org/#%D7%A7%D7%A4%D7%94%20%D7%90%D7%93%D7%9E%D7%95%D7%A0%D7%93</link>
@@ -117,16 +127,6 @@
       <title>חלונות</title>
       <link>http://coensisters.org/#%D7%97%D7%9C%D7%95%D7%A0%D7%95%D7%AA</link>
       <pubDate>Sun, 03 May 2020 15:25:07 +0300</pubDate>
-    </item>
-    <item>
-      <title>מתפללים בגינת בילו</title>
-      <link>http://coensisters.org/#%D7%9E%D7%AA%D7%A4%D7%9C%D7%9C%D7%99%D7%9D%20%D7%91%D7%92%D7%99%D7%A0%D7%AA%20%D7%91%D7%99%D7%9C%D7%95</link>
-      <pubDate>Wed, 29 Apr 2020 13:56:15 +0300</pubDate>
-    </item>
-    <item>
-      <title>מהחלון של המטבח</title>
-      <link>http://coensisters.org/#%D7%9E%D7%94%D7%97%D7%9C%D7%95%D7%9F%20%D7%A9%D7%9C%20%D7%94%D7%9E%D7%98%D7%91%D7%97</link>
-      <pubDate>Sun, 26 Apr 2020 19:25:21 +0300</pubDate>
     </item>
   </channel>
 </rss>

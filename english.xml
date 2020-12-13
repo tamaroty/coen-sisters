@@ -12,7 +12,17 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 29 Nov 2020 15:22:36 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Dec 2020 16:36:15 +0200</lastBuildDate>
+    <item>
+      <title>Lent of silence</title>
+      <link>http://coensisters.org/english.html#Lent%20of%20silence</link>
+      <pubDate>Wed, 09 Dec 2020 16:34:06 +0200</pubDate>
+    </item>
+    <item>
+      <title>Pomegranate peeling meditation</title>
+      <link>http://coensisters.org/english.html#Pomegranate%20peeling%20meditation</link>
+      <pubDate>Fri, 04 Dec 2020 16:44:09 +0200</pubDate>
+    </item>
     <item>
       <title>Edmund coffee</title>
       <link>http://coensisters.org/english.html#Edmund%20coffee</link>
@@ -117,16 +127,6 @@
       <title>Chat noir</title>
       <link>http://coensisters.org/english.html#Chat%20noir</link>
       <pubDate>Sun, 28 Jun 2020 13:45:49 +0300</pubDate>
-    </item>
-    <item>
-      <title>Holocaust</title>
-      <link>http://coensisters.org/english.html#Holocaust</link>
-      <pubDate>Sat, 27 Jun 2020 21:55:26 +0300</pubDate>
-    </item>
-    <item>
-      <title>The Camera</title>
-      <link>http://coensisters.org/english.html#The%20Camera</link>
-      <pubDate>Sat, 27 Jun 2020 16:22:51 +0300</pubDate>
     </item>
   </channel>
 </rss>
