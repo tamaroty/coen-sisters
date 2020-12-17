@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Wed, 09 Dec 2020 16:36:15 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Dec 2020 16:24:54 +0200</lastBuildDate>
+    <item>
+      <title>Born &amp; Raised</title>
+      <link>http://coensisters.org/english.html#Born%20%26%20Raised</link>
+      <pubDate>Tue, 15 Dec 2020 16:23:41 +0200</pubDate>
+    </item>
     <item>
       <title>Lent of silence</title>
       <link>http://coensisters.org/english.html#Lent%20of%20silence</link>
@@ -122,11 +127,6 @@
       <title>Zzzen radio</title>
       <link>http://coensisters.org/english.html#Zzzen%20radio</link>
       <pubDate>Sun, 28 Jun 2020 13:55:32 +0300</pubDate>
-    </item>
-    <item>
-      <title>Chat noir</title>
-      <link>http://coensisters.org/english.html#Chat%20noir</link>
-      <pubDate>Sun, 28 Jun 2020 13:45:49 +0300</pubDate>
     </item>
   </channel>
 </rss>
