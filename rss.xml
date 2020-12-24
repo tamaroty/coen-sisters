@@ -12,7 +12,17 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Thu, 17 Dec 2020 16:17:57 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 24 Dec 2020 20:26:41 +0200</lastBuildDate>
+    <item>
+      <title>נקעה רגלי</title>
+      <link>http://coensisters.org/#%D7%A0%D7%A7%D7%A2%D7%94%20%D7%A8%D7%92%D7%9C%D7%99</link>
+      <pubDate>Thu, 24 Dec 2020 16:12:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>סביח 29</title>
+      <link>http://coensisters.org/#%D7%A1%D7%91%D7%99%D7%97%2029</link>
+      <pubDate>Sun, 20 Dec 2020 13:32:32 +0200</pubDate>
+    </item>
     <item>
       <title>Born &amp; Raised</title>
       <link>http://coensisters.org/#Born%20%26%20Raised</link>
@@ -117,16 +127,6 @@
       <title>סיפורים מהעתיד</title>
       <link>http://coensisters.org/#%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D%20%D7%9E%D7%94%D7%A2%D7%AA%D7%99%D7%93</link>
       <pubDate>Sun, 10 May 2020 13:35:10 +0300</pubDate>
-    </item>
-    <item>
-      <title>מאלו</title>
-      <link>http://coensisters.org/#%D7%9E%D7%90%D7%9C%D7%95</link>
-      <pubDate>Wed, 06 May 2020 12:12:55 +0300</pubDate>
-    </item>
-    <item>
-      <title>מהחלון של הרטריט</title>
-      <link>http://coensisters.org/#%D7%9E%D7%94%D7%97%D7%9C%D7%95%D7%9F%20%D7%A9%D7%9C%20%D7%94%D7%A8%D7%98%D7%A8%D7%99%D7%98</link>
-      <pubDate>Sun, 03 May 2020 18:58:08 +0300</pubDate>
     </item>
   </channel>
 </rss>
