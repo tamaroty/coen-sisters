@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Thu, 04 Feb 2021 16:16:04 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Feb 2021 18:56:02 +0200</lastBuildDate>
+    <item>
+      <title>Colorful kitchen</title>
+      <link>http://coensisters.org/english.html#Colorful%20kitchen</link>
+      <pubDate>Tue, 09 Feb 2021 18:54:29 +0200</pubDate>
+    </item>
     <item>
       <title>Rothschild Blvd &amp; Balfour St</title>
       <link>http://coensisters.org/english.html#Rothschild%20Blvd%20%26%20Balfour%20St</link>
@@ -122,11 +127,6 @@
       <title>Gura narrates 02</title>
       <link>http://coensisters.org/english.html#Gura%20narrates%2002</link>
       <pubDate>Sun, 02 Aug 2020 11:39:30 +0300</pubDate>
-    </item>
-    <item>
-      <title>Gura narrates 01</title>
-      <link>http://coensisters.org/english.html#Gura%20narrates%2001</link>
-      <pubDate>Sun, 02 Aug 2020 11:35:37 +0300</pubDate>
     </item>
   </channel>
 </rss>
