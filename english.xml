@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Thu, 25 Feb 2021 20:03:30 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 30 Apr 2021 21:01:46 +0300</lastBuildDate>
+    <item>
+      <title>Birthday</title>
+      <link>http://coensisters.org/english.html#Birthday</link>
+      <pubDate>Fri, 30 Apr 2021 20:38:31 +0300</pubDate>
+    </item>
     <item>
       <title>The Valhalla Murders</title>
       <link>http://coensisters.org/english.html#The%20Valhalla%20Murders</link>
@@ -122,11 +127,6 @@
       <title>Chim Chimney</title>
       <link>http://coensisters.org/english.html#Chim%20Chimney</link>
       <pubDate>Tue, 18 Aug 2020 12:10:05 +0300</pubDate>
-    </item>
-    <item>
-      <title>Discipline</title>
-      <link>http://coensisters.org/english.html#Discipline</link>
-      <pubDate>Thu, 13 Aug 2020 15:04:40 +0300</pubDate>
     </item>
   </channel>
 </rss>
