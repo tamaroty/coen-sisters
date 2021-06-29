@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Thu, 13 May 2021 18:17:25 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jun 2021 17:32:37 +0300</lastBuildDate>
+    <item>
+      <title>Flowers in the kitchen</title>
+      <link>http://coensisters.org/english.html#Flowers%20in%20the%20kitchen</link>
+      <pubDate>Tue, 29 Jun 2021 17:30:51 +0300</pubDate>
+    </item>
     <item>
       <title>To everything there is a place</title>
       <link>http://coensisters.org/english.html#To%20everything%20there%20is%20a%20place</link>
@@ -122,11 +127,6 @@
       <title>Plum cake</title>
       <link>http://coensisters.org/english.html#Plum%20cake</link>
       <pubDate>Thu, 10 Sep 2020 09:15:05 +0300</pubDate>
-    </item>
-    <item>
-      <title>Equalizer in the chest</title>
-      <link>http://coensisters.org/english.html#Equalizer%20in%20the%20chest</link>
-      <pubDate>Fri, 28 Aug 2020 08:57:15 +0300</pubDate>
     </item>
   </channel>
 </rss>
