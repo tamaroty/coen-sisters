@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 07 Nov 2021 16:49:13 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Nov 2021 15:11:13 +0200</lastBuildDate>
+    <item>
+      <title>American Utopia</title>
+      <link>http://coensisters.org/#American%20Utopia</link>
+      <pubDate>Wed, 17 Nov 2021 14:49:53 +0200</pubDate>
+    </item>
     <item>
       <title>כוסות מזארה הום</title>
       <link>http://coensisters.org/#%D7%9B%D7%95%D7%A1%D7%95%D7%AA%20%D7%9E%D7%96%D7%90%D7%A8%D7%94%20%D7%94%D7%95%D7%9D</link>
@@ -122,11 +127,6 @@
       <title>מדיטציית קילוף רימונים</title>
       <link>http://coensisters.org/#%D7%9E%D7%93%D7%99%D7%98%D7%A6%D7%99%D7%99%D7%AA%20%D7%A7%D7%99%D7%9C%D7%95%D7%A3%20%D7%A8%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%9D</link>
       <pubDate>Fri, 04 Dec 2020 16:45:43 +0200</pubDate>
-    </item>
-    <item>
-      <title>קפה אדמונד</title>
-      <link>http://coensisters.org/#%D7%A7%D7%A4%D7%94%20%D7%90%D7%93%D7%9E%D7%95%D7%A0%D7%93</link>
-      <pubDate>Sun, 29 Nov 2020 15:11:22 +0200</pubDate>
     </item>
   </channel>
 </rss>
