@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sat, 18 Dec 2021 13:12:40 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 Dec 2021 21:15:38 +0200</lastBuildDate>
+    <item>
+      <title>New order</title>
+      <link>http://coensisters.org/english.html#New%20order</link>
+      <pubDate>Mon, 20 Dec 2021 21:14:10 +0200</pubDate>
+    </item>
     <item>
       <title>Adama</title>
       <link>http://coensisters.org/english.html#Adama</link>
@@ -122,11 +127,6 @@
       <title>From Guy's eastern balcony</title>
       <link>http://coensisters.org/english.html#From%20Guy%27s%20eastern%20balcony</link>
       <pubDate>Wed, 27 Jan 2021 18:38:51 +0200</pubDate>
-    </item>
-    <item>
-      <title>From the kitchen's window 2</title>
-      <link>http://coensisters.org/english.html#From%20the%20kitchen%27s%20window%202</link>
-      <pubDate>Mon, 04 Jan 2021 14:08:03 +0200</pubDate>
     </item>
   </channel>
 </rss>
