@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 26 Dec 2021 17:18:10 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 Dec 2021 16:18:53 +0200</lastBuildDate>
+    <item>
+      <title>Animal Protest</title>
+      <link>http://coensisters.org/english.html#Animal%20Protest</link>
+      <pubDate>Mon, 27 Dec 2021 16:01:03 +0200</pubDate>
+    </item>
     <item>
       <title>Another frame from Synecdoche New York</title>
       <link>http://coensisters.org/english.html#Another%20frame%20from%20Synecdoche%20New%20York</link>
@@ -122,11 +127,6 @@
       <title>Colorful kitchen</title>
       <link>http://coensisters.org/english.html#Colorful%20kitchen</link>
       <pubDate>Tue, 09 Feb 2021 18:54:29 +0200</pubDate>
-    </item>
-    <item>
-      <title>Rothschild Blvd &amp; Balfour St</title>
-      <link>http://coensisters.org/english.html#Rothschild%20Blvd%20%26%20Balfour%20St</link>
-      <pubDate>Thu, 04 Feb 2021 16:10:55 +0200</pubDate>
     </item>
   </channel>
 </rss>
