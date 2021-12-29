@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Mon, 27 Dec 2021 16:18:53 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Dec 2021 21:38:57 +0200</lastBuildDate>
+    <item>
+      <title>UMF</title>
+      <link>http://coensisters.org/english.html#UMF</link>
+      <pubDate>Wed, 29 Dec 2021 21:33:27 +0200</pubDate>
+    </item>
     <item>
       <title>Animal Protest</title>
       <link>http://coensisters.org/english.html#Animal%20Protest</link>
@@ -122,11 +127,6 @@
       <title>Washing the grinder</title>
       <link>http://coensisters.org/english.html#Washing%20the%20grinder</link>
       <pubDate>Tue, 23 Feb 2021 11:24:54 +0200</pubDate>
-    </item>
-    <item>
-      <title>Colorful kitchen</title>
-      <link>http://coensisters.org/english.html#Colorful%20kitchen</link>
-      <pubDate>Tue, 09 Feb 2021 18:54:29 +0200</pubDate>
     </item>
   </channel>
 </rss>
