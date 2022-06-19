@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Tue, 17 May 2022 13:41:54 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jun 2022 17:29:00 +0300</lastBuildDate>
+    <item>
+      <title>Sarah's living room</title>
+      <link>http://coensisters.org/english.html#Sarah%27s%20living%20room</link>
+      <pubDate>Sun, 19 Jun 2022 17:19:17 +0300</pubDate>
+    </item>
     <item>
       <title>A ship in eternity</title>
       <link>http://coensisters.org/english.html#A%20ship%20in%20eternity</link>
@@ -122,11 +127,6 @@
       <title>Flowers in the kitchen</title>
       <link>http://coensisters.org/english.html#Flowers%20in%20the%20kitchen</link>
       <pubDate>Tue, 29 Jun 2021 17:30:51 +0300</pubDate>
-    </item>
-    <item>
-      <title>To everything there is a place</title>
-      <link>http://coensisters.org/english.html#To%20everything%20there%20is%20a%20place</link>
-      <pubDate>Sat, 08 May 2021 11:11:06 +0300</pubDate>
     </item>
   </channel>
 </rss>
