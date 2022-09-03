@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 19 Jun 2022 17:29:00 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 03 Sep 2022 10:35:27 +0300</lastBuildDate>
+    <item>
+      <title>She sat in the living room and smoked a cigarette</title>
+      <link>http://coensisters.org/english.html#She%20sat%20in%20the%20living%20room%20and%20smoked%20a%20cigarette</link>
+      <pubDate>Sat, 03 Sep 2022 10:27:31 +0300</pubDate>
+    </item>
     <item>
       <title>Sarah's living room</title>
       <link>http://coensisters.org/english.html#Sarah%27s%20living%20room</link>
@@ -122,11 +127,6 @@
       <title>Ready made delicatessen</title>
       <link>http://coensisters.org/english.html#Ready%20made%20delicatessen</link>
       <pubDate>Wed, 30 Jun 2021 15:47:58 +0300</pubDate>
-    </item>
-    <item>
-      <title>Flowers in the kitchen</title>
-      <link>http://coensisters.org/english.html#Flowers%20in%20the%20kitchen</link>
-      <pubDate>Tue, 29 Jun 2021 17:30:51 +0300</pubDate>
     </item>
   </channel>
 </rss>
