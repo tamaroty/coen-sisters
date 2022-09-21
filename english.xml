@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Tue, 20 Sep 2022 20:25:05 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 21 Sep 2022 06:25:58 +0300</lastBuildDate>
+    <item>
+      <title>Rest</title>
+      <link>http://coensisters.org/english.html#Rest</link>
+      <pubDate>Wed, 21 Sep 2022 06:24:46 +0300</pubDate>
+    </item>
     <item>
       <title>At the bakery for instance</title>
       <link>http://coensisters.org/english.html#At%20the%20bakery%20for%20instance</link>
@@ -122,11 +127,6 @@
       <title>Nano feature</title>
       <link>http://coensisters.org/english.html#Nano%20feature</link>
       <pubDate>Mon, 11 Oct 2021 09:34:28 +0300</pubDate>
-    </item>
-    <item>
-      <title>A 70`s kitchen that Terry Schreuer took a picture of</title>
-      <link>http://coensisters.org/english.html#A%2070%60s%20kitchen%20that%20Terry%20Schreuer%20took%20a%20picture%20of</link>
-      <pubDate>Sun, 19 Sep 2021 16:49:50 +0300</pubDate>
     </item>
   </channel>
 </rss>
