@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Wed, 21 Sep 2022 06:26:38 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 29 Sep 2022 06:15:14 +0300</lastBuildDate>
+    <item>
+      <title>החנות שלנו</title>
+      <link>http://coensisters.org/#%D7%94%D7%97%D7%A0%D7%95%D7%AA%20%D7%A9%D7%9C%D7%A0%D7%95</link>
+      <pubDate>Thu, 29 Sep 2022 06:11:38 +0300</pubDate>
+    </item>
     <item>
       <title>מנוחה</title>
       <link>http://coensisters.org/#%D7%9E%D7%A0%D7%95%D7%97%D7%94</link>
@@ -122,11 +127,6 @@
       <title>כוסות מזארה הום</title>
       <link>http://coensisters.org/#%D7%9B%D7%95%D7%A1%D7%95%D7%AA%20%D7%9E%D7%96%D7%90%D7%A8%D7%94%20%D7%94%D7%95%D7%9D</link>
       <pubDate>Sun, 07 Nov 2021 16:37:30 +0200</pubDate>
-    </item>
-    <item>
-      <title>ננו פיצ'ר</title>
-      <link>http://coensisters.org/#%D7%A0%D7%A0%D7%95%20%D7%A4%D7%99%D7%A6%27%D7%A8</link>
-      <pubDate>Mon, 11 Oct 2021 09:33:13 +0300</pubDate>
     </item>
   </channel>
 </rss>
