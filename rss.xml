@@ -12,7 +12,17 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Mon, 03 Oct 2022 17:27:03 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 09:08:24 +0200</lastBuildDate>
+    <item>
+      <title>חיכה לי</title>
+      <link>http://coensisters.org/#%D7%97%D7%99%D7%9B%D7%94%20%D7%9C%D7%99</link>
+      <pubDate>Mon, 26 Dec 2022 08:50:12 +0200</pubDate>
+    </item>
+    <item>
+      <title>גלאם</title>
+      <link>http://coensisters.org/#%D7%92%D7%9C%D7%90%D7%9D</link>
+      <pubDate>Mon, 26 Dec 2022 08:44:51 +0200</pubDate>
+    </item>
     <item>
       <title>החנות שלנו</title>
       <link>http://coensisters.org/#%D7%94%D7%97%D7%A0%D7%95%D7%AA%20%D7%A9%D7%9C%D7%A0%D7%95</link>
@@ -117,16 +127,6 @@
       <title>שימור</title>
       <link>http://coensisters.org/#%D7%A9%D7%99%D7%9E%D7%95%D7%A8</link>
       <pubDate>Thu, 02 Dec 2021 20:00:44 +0200</pubDate>
-    </item>
-    <item>
-      <title>American Utopia</title>
-      <link>http://coensisters.org/#American%20Utopia</link>
-      <pubDate>Wed, 17 Nov 2021 14:49:53 +0200</pubDate>
-    </item>
-    <item>
-      <title>כוסות מזארה הום</title>
-      <link>http://coensisters.org/#%D7%9B%D7%95%D7%A1%D7%95%D7%AA%20%D7%9E%D7%96%D7%90%D7%A8%D7%94%20%D7%94%D7%95%D7%9D</link>
-      <pubDate>Sun, 07 Nov 2021 16:37:30 +0200</pubDate>
     </item>
   </channel>
 </rss>
