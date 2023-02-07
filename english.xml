@@ -12,7 +12,12 @@
       <link>http://coensisters.org/english.html</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Thu, 19 Jan 2023 09:26:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2023 06:14:37 +0200</lastBuildDate>
+    <item>
+      <title>Merry February</title>
+      <link>http://coensisters.org/english.html#Merry%20February</link>
+      <pubDate>Tue, 07 Feb 2023 06:12:11 +0200</pubDate>
+    </item>
     <item>
       <title>The tidy closet</title>
       <link>http://coensisters.org/english.html#The%20tidy%20closet</link>
@@ -122,11 +127,6 @@
       <title>Chocolate cake</title>
       <link>http://coensisters.org/english.html#Chocolate%20cake</link>
       <pubDate>Sun, 12 Dec 2021 20:10:29 +0200</pubDate>
-    </item>
-    <item>
-      <title>Our beloved Stereo</title>
-      <link>http://coensisters.org/english.html#Our%20beloved%20Stereo</link>
-      <pubDate>Tue, 07 Dec 2021 16:16:19 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -12,7 +12,12 @@
       <link>http://coensisters.org/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Thu, 19 Jan 2023 09:25:38 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2023 06:15:47 +0200</lastBuildDate>
+    <item>
+      <title>פברואר השמח</title>
+      <link>http://coensisters.org/#%D7%A4%D7%91%D7%A8%D7%95%D7%90%D7%A8%20%D7%94%D7%A9%D7%9E%D7%97</link>
+      <pubDate>Tue, 07 Feb 2023 06:09:25 +0200</pubDate>
+    </item>
     <item>
       <title>הארון המסודר</title>
       <link>http://coensisters.org/#%D7%94%D7%90%D7%A8%D7%95%D7%9F%20%D7%94%D7%9E%D7%A1%D7%95%D7%93%D7%A8</link>
@@ -122,11 +127,6 @@
       <title>עוגת שוקולד</title>
       <link>http://coensisters.org/#%D7%A2%D7%95%D7%92%D7%AA%20%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93</link>
       <pubDate>Sun, 12 Dec 2021 20:08:45 +0200</pubDate>
-    </item>
-    <item>
-      <title>הסטריאו האהוב שלנו</title>
-      <link>http://coensisters.org/#%D7%94%D7%A1%D7%98%D7%A8%D7%99%D7%90%D7%95%20%D7%94%D7%90%D7%94%D7%95%D7%91%20%D7%A9%D7%9C%D7%A0%D7%95</link>
-      <pubDate>Tue, 07 Dec 2021 16:15:33 +0200</pubDate>
     </item>
   </channel>
 </rss>
